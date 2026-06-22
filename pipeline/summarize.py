@@ -22,6 +22,19 @@ class Summarizer(Protocol):
 
 # ── Mode dégradé (aucune clé requise) ─────────────────────────────────────────
 
+def _strip_html(text: str) -> str:
+    """Supprime toutes les balises HTML d'un texte."""
+    import re
+    text = re.sub(r'<[^>]+>', ' ', text)
+    text = re.sub(r'&nbsp;', ' ', text)
+    text = re.sub(r'&amp;', '&', text)
+    text = re.sub(r'&lt;', '<', text)
+    text = re.sub(r'&gt;', '>', text)
+    text = re.sub(r'&quot;', '"', text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
+
+
 _SIMPLE_TRANSLATIONS = {
     "new set": "nouveau set",
     "release date": "date de sortie",
@@ -50,7 +63,7 @@ class DegradedSummarizer:
 
     def summarize(self, item: NewsItem) -> dict:
         title = _basic_translate(item._raw_title)
-        body = item._raw_body.strip()
+        body = _strip_html(item._raw_body).strip()
         # Extrait les 3 premières phrases
         sentences = re.split(r"(?<=[.!?])\s+", body)[:3]
         summary = _basic_translate(" ".join(sentences)) if sentences else title

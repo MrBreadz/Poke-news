@@ -1,86 +1,109 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T21:40:45.729309+00:00",
+  "generated_at": "2026-06-22T22:20:22.990920+00:00",
   "items": [
     {
-      "id": "49010e076736",
-      "title_fr": "Mega Chimecho & Mega Baxcalibur revealed in new trailers for Mega Dimension DLC",
-      "summary_fr": "<p>Three new trailers have been released for Pokémon Legends: Z-A. The first two deal with the paid DLC, which is announced to be releasing on <strong>December 10th</strong>. During this DLC, Hoopa opens up portals to <q>Hyperspace Lumiose</q>, a parallel world in which different Pokémon can be found, including several from newer games like Scarlet/Violet.</p>\n<div class=\"figure\"><img alt=\"Mega Chimecho and Mega Baxcalibur\" height=\"378\" src=\"https://img.pokemondb.net/news/2025/mega-chimecho-mega-baxcalibur.jpg\" width=\"760\" /></div>\n<p>There are also new Mega Evolutions.",
+      "id": "3e6d73b210fb",
+      "title_fr": "Odds of a 151, or black bolt/white flare for all gens?",
+      "summary_fr": "It's so crazy to me that we still don't have full art cards for some certain mons, and it feels like a full line of Gen specific sets would be the best bet at it happening, and it would be awesome for all the regions to have their own pack sets. &#32; submitted by &#32; /u/CT101drawz [link] &#32; [comments]",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucycrl/odds_of_a_151_or_black_boltwhite_flare_for_all/",
+      "published_at": "2026-06-22T21:57:20+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "score": 40,
+      "tags": [
+        "151"
+      ],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucycrl/odds_of_a_151_or_black_boltwhite_flare_for_all/"
+        }
+      ]
+    },
+    {
+      "id": "0753b14fbcd0",
+      "title_fr": "Vendor has been setting up stock times for someone she knows/likes to come take it all at 4 different locations. Is there anything I can do? hopeless..",
+      "summary_fr": "There’s a vendor at my local Walmart who is completely abusing her position. She’s been tipping off a guy she knows about the exact dates and times she réapprovisionnements any time Destined Rivals or Ascended Heroes ETBs are getting stocked. Because she tells him exactly when she’s putting the boxes out, he or one of his group chat friends are always waiting right there in the aisle to buy up every single item the second it hits the shelf, leaving absolutely nothing for regular shoppers who are just trying to buy things fairly.",
       "category": "stocks",
       "subcategories": [
         "stocks"
       ],
-      "source_name": "PokemonDB",
-      "source_url": "https://pokemondb.net/news/343/mega-chimecho-mega-baxcalibur-trailers-mega-dimension-dlc",
-      "published_at": "2025-11-06T14:23:29+00:00",
-      "image_url": "https://img.pokemondb.net/news/2025/mega-chimecho-mega-baxcalibur.jpg",
-      "score": 34,
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucwqzx/vendor_has_been_setting_up_stock_times_for/",
+      "published_at": "2026-06-22T20:56:19+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "score": 40,
       "tags": [],
       "extra": {
-        "weight": 2
+        "weight": 4
       },
       "all_sources": [
         {
-          "name": "PokemonDB",
-          "url": "https://pokemondb.net/news/343/mega-chimecho-mega-baxcalibur-trailers-mega-dimension-dlc"
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucwqzx/vendor_has_been_setting_up_stock_times_for/"
         }
       ]
     },
     {
-      "id": "2cbe355cb463",
-      "title_fr": "“30th Celebration” TCG Set Officially Revealed for Worldwide September Release, Features New “Futuristic Rare” Rarity!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tThe special <b>30th Celebration</b> set has finally been revealed! It will release worldwide on Wednesday, September 16th, followed by additional product releases throughout the year. The set will contain around 150 cards after secret rares.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Pokemon_TCG_30th_Celebration_Booster_Wrap-109x200.png\" width=\"\" /><br />\n\t\t\t<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/m6a_pillow_4f272152-99x200.jpg\" width=\"\" /><br />\n\t\t\t<br />\n\t\t<br />\n<br />\nJust like Celebrations in 2021, the set will...",
-      "category": "nouvelles_cartes",
+      "id": "9d19539f93e3",
+      "title_fr": "My Own binder and Collection after 2 weeks!",
+      "summary_fr": "Hi! I hope this is allowed and not breaking any of the rules! I got back into pokemon about 2 weeks ago after not collecting for about 8-9 years (im 18 currently) I got into collecting due to creators such as Beard Dad, Sean and Coop and although I said i would just watch the video and would not start collecting I couldnt help myself!",
+      "category": "leaks_niche",
       "subcategories": [
-        "nouvelles_cartes"
+        "leaks_niche"
       ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-tcg-set-officially-revealed-for-worldwide-september-release-features-new-%E2%80%9Cfuturistic-rare%E2%80%9D-rarity.156849/",
-      "published_at": "2026-06-10T01:18:15+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/Pokemon_TCG_30th_Celebration_157_Mewtwo_ex.png",
-      "score": 33,
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucx11d/my_own_binder_and_collection_after_2_weeks/",
+      "published_at": "2026-06-22T21:06:36+00:00",
+      "image_url": "https://preview.redd.it/09onallrfw8h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e4f6eb4475ef78ab488c4fb23bf35a7b828d8c12",
+      "score": 38,
       "tags": [],
       "extra": {
-        "weight": 5
+        "weight": 4
       },
       "all_sources": [
         {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-tcg-set-officially-revealed-for-worldwide-september-release-features-new-%E2%80%9Cfuturistic-rare%E2%80%9D-rarity.156849/"
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucx11d/my_own_binder_and_collection_after_2_weeks/"
         }
       ]
     },
     {
-      "id": "c0303bfac652",
-      "title_fr": "All 30 Classic Collection Cards from “30th Celebration” Likely Revealed!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tAs revealed this morning, September&#039;s <a class=\"link link--internal\" href=\"https://www.pokebeach.com/2026/06/30th-celebration-set-revealed\">30th Celebration set</a> will not only feature new cards, but 30 classic cards from throughout the Pokemon TCG&#039;s history. Each card will be reprinted with a Pikachu stamp and a special holofoil treatment:<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Pokemon_TCG_30th_Celebration_Booster_Wrap-109x200.png\" width=\"\" /><br />\n\t\t\t<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Pokemon_TCG_30th_Celebration_004_Charizard_classic_card-147x200.png\" width=\"\" />... </div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/forums/threads/all-30-classic-collection-cards-from-%E2%80%9C30th-celebration%E2%80%9D-likely-revealed.156851/\">Read more</a></div>",
-      "category": "nouvelles_cartes",
+      "id": "ae09a482cb85",
+      "title_fr": "My copy of Pokemon TCG for the Game Boy still has the card in it",
+      "summary_fr": "Bought this about 12 years ago from a comic book store for about $20. Granted it was sealed back then but I couldn't resist opening it to play the game. Even got a Dragonite as the promo!",
+      "category": "stocks",
       "subcategories": [
-        "nouvelles_cartes"
+        "stocks"
       ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/all-30-classic-collection-cards-from-%E2%80%9C30th-celebration%E2%80%9D-likely-revealed.156851/",
-      "published_at": "2026-06-09T16:44:34+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/aq.149.lugia_.jpg",
-      "score": 33,
-      "tags": [
-        "Charizard",
-        "Pikachu"
-      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucvvc2/my_copy_of_pokemon_tcg_for_the_game_boy_still_has/",
+      "published_at": "2026-06-22T20:23:48+00:00",
+      "image_url": "https://preview.redd.it/iycq595z7w8h1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=ef126ec8bf209de4acf51955ad19cd71a40dcfbe",
+      "score": 38,
+      "tags": [],
       "extra": {
-        "weight": 5
+        "weight": 4
       },
       "all_sources": [
         {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/all-30-classic-collection-cards-from-%E2%80%9C30th-celebration%E2%80%9D-likely-revealed.156851/"
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucvvc2/my_copy_of_pokemon_tcg_for_the_game_boy_still_has/"
         }
       ]
     },
     {
       "id": "1ca8cc5fa0b1",
       "title_fr": "NAIC on Fraud Watch? Looking At the Surprises From NAIC",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tThe North America International Championships has just concluded and there were definitely some surprising results. I still maintain that decks besides <a class=\"link link--internal\" href=\"https://www.pokebeach.com/news/2026/01/160-Dragapult-ex-Ascended-Heroes.jpg\">Dragapult ex</a> are mostly bad in the sense that they are simply inferior, but that doesn&#039;t mean that they can&#039;t win games. The metagame continues its trend of sprinkling random other decks into top finishes, while Dragapult still maintains its dominant spot in terms of popularity and results.",
+      "summary_fr": "The North America International Championships has just concluded and there were definitely some surprising results. I still maintain that decks besides Dragapult ex are mostly bad in the sense that they are simply inferior, but that doesn&#039;t mean that they can&#039;t win games. The metagame continues its trend of sprinkling random other decks into top finishes, while Dragapult still maintains its dominant spot in terms of popularity and results.",
       "category": "leaks_niche",
       "subcategories": [
         "leaks_niche"
@@ -102,9 +125,33 @@
       ]
     },
     {
+      "id": "58b27fb28da7",
+      "title_fr": "Took a chance on some of those dollar store mystery packs",
+      "summary_fr": "I managed to get 4 boosters packs out of them. Not many hits but on the last pack I pulled this beauty! Maybe not a super valuable card but I LOVE the illustration and the way it sparkles!",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucwl7s/took_a_chance_on_some_of_those_dollar_store/",
+      "published_at": "2026-06-22T20:50:12+00:00",
+      "image_url": "https://preview.redd.it/xktxgw8vcw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68f68df391c5c93fbe66c4cdc033b21c59061067",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucwl7s/took_a_chance_on_some_of_those_dollar_store/"
+        }
+      ]
+    },
+    {
       "id": "838e64e3062a",
       "title_fr": "Pokemon North America International Championships to Move to Chicago!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tTPCi has announced that next year&#039;s North America International Championships will take place in Chicago, Illinois at the McCormick Place Convention Center. For the last three years it was held in New Orleans.<br />\nTPCi has cited the move is due to growth, allowing NAIC to become a larger event.<br />\nDates and further details have not been announced yet.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/pokebeach-20260614-15091020-946341-200x113.jpg\" width=\"\" />\n\t\t</div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/2026/06/pokemon-north-america-international-championships-to-move-to-chicago\">Continue reading...</a></div>",
+      "summary_fr": "TPCi has announced that next year&#039;s North America International Championships will take place in Chicago, Illinois at the McCormick Place Convention Center. For the last three years it was held in New Orleans. TPCi has cited the move is due to growth, allowing NAIC to become a larger event.",
       "category": "leaks_niche",
       "subcategories": [
         "leaks_niche"
@@ -126,275 +173,227 @@
       ]
     },
     {
-      "id": "702df2348332",
-      "title_fr": "Pokémon Scarlet and Violet - Mighty Evolutions of First Partner Pokémon Return - Cinderace",
-      "summary_fr": "Mighty Evolutions of first Partner Pokémon return to 7-star Tera Raid Battles and Cinderace with the Mightiest Mark can be encountered in black crystal Tera Raid Battles from Friday, June 12th, 20...",
-      "category": "nouvelles_cartes",
-      "subcategories": [
-        "nouvelles_cartes"
-      ],
-      "source_name": "PocketMonsters",
-      "source_url": "https://pocketmonsters.net/news/9288",
-      "published_at": "2026-06-12T11:42:07+00:00",
-      "image_url": "//media.pocketmonsters.net/news/9288/Cinderace.jpg/t/700.png",
-      "score": 29,
-      "tags": [],
-      "extra": {
-        "weight": 3
-      },
-      "all_sources": [
-        {
-          "name": "PocketMonsters",
-          "url": "https://pocketmonsters.net/news/9288"
-        }
-      ]
-    },
-    {
-      "id": "3a6f5e4affd6",
-      "title_fr": "“Are You Perhaps with Team Rocket?” Trademark Filed!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tWe&#039;ve discovered that a new trademark for <b>Are You Perhaps with Team Rocket? </b>(お前、もしかしてロケット団？) has been filed by Pokemon Japan. It&#039;s registered under the same categories that are used for TCG set names and products.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Team-Rocket-200x113.jpg\" width=\"\" /><br />\n\t\t\t<br />\n\t\t<br />\n<br />\nThere has never been a set with a question mark in its name, making this trademark unusual.",
+      "id": "51f14e1fd268",
+      "title_fr": "A couple of vintage from the collection",
+      "summary_fr": "&#32; submitted by &#32; /u/cozy-campf1re [link] &#32; [comments]",
       "category": "leaks_niche",
       "subcategories": [
         "leaks_niche"
       ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Care-you-perhaps-with-team-rocket-%E2%80%9D-trademark-filed.156879/",
-      "published_at": "2026-06-22T07:09:45+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/Here-Comes-Team-Rocket-XY278-Promo.jpg",
-      "score": 27,
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucywi0/a_couple_of_vintage_from_the_collection/",
+      "published_at": "2026-06-22T22:18:27+00:00",
+      "image_url": "https://preview.redd.it/romfzqilsw8h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bc26a6cfc7a1eed2bff1f713a21c021251719819",
+      "score": 30,
       "tags": [],
       "extra": {
-        "weight": 5
+        "weight": 4
       },
       "all_sources": [
         {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Care-you-perhaps-with-team-rocket-%E2%80%9D-trademark-filed.156879/"
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucywi0/a_couple_of_vintage_from_the_collection/"
         }
       ]
     },
     {
-      "id": "44878ff4dc8d",
-      "title_fr": "New Mythical Pokémon Pecharunt officially revealed",
-      "summary_fr": "<p>A new trailer has been released by The Pokémon Company, which officially announces the mythical Pokémon, <strong><a href=\"https://pokemondb.net/pokedex/pecharunt\">Pecharunt</a></strong>. It's Poison/Ghost and has a new ability <a href=\"https://pokemondb.net/ability/poison-puppeteer\">Poison Puppeteer</a> which causes poisoned Pokémon to also become confused.</p>\n\n<p>Pecharunt is available during the epilogue of the Scarlet/Violet expansion pass. An additional video telling the story of Pecharunt's history was also released, see below.</p>",
-      "category": "nouvelles_cartes",
-      "subcategories": [
-        "nouvelles_cartes"
-      ],
-      "source_name": "PokemonDB",
-      "source_url": "https://pokemondb.net/news/331/new-mythical-pokemon-pecharunt-officially-revealed",
-      "published_at": "2024-01-15T16:41:24+00:00",
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "score": 26,
-      "tags": [],
-      "extra": {
-        "weight": 2
-      },
-      "all_sources": [
-        {
-          "name": "PokemonDB",
-          "url": "https://pokemondb.net/news/331/new-mythical-pokemon-pecharunt-officially-revealed"
-        }
-      ]
-    },
-    {
-      "id": "b80e64da778b",
-      "title_fr": "Epilogue for the Scarlet/Violet DLC announced",
-      "summary_fr": "<p>An update for Pokémon Scarlet/Violet has been announced, which will include an epilogue to the SV Expansion Pass, The Hidden Treasure of Area Zero. A short video has been released, which hints at a new mythical Pokémon.</p>\n<p>The epilogue will be available from <strong>January 11th, 2024</strong>.</p>\n\n<p>(If you're happy to be spoiled, <a href=\"https://pokemondb.net/pokedex/pecharunt\">here is a link to the new Pokémon</a>.)</p>",
-      "category": "nouvelles_cartes",
-      "subcategories": [
-        "nouvelles_cartes"
-      ],
-      "source_name": "PokemonDB",
-      "source_url": "https://pokemondb.net/news/330/epilogue-scarlet-violet-dlc-announced",
-      "published_at": "2023-12-20T17:50:57+00:00",
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "score": 26,
-      "tags": [],
-      "extra": {
-        "weight": 2
-      },
-      "all_sources": [
-        {
-          "name": "PokemonDB",
-          "url": "https://pokemondb.net/news/330/epilogue-scarlet-violet-dlc-announced"
-        }
-      ]
-    },
-    {
-      "id": "c3fa7ac2e55f",
-      "title_fr": "“Storm Emeralda” and “Delta Reign” TCG Sets Officially Teased Along with Pocket’s “Ruler of the Skies!”",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tPokemon Japan has simultaneously revealed the long-awaited <b>Storm Emeralda</b> set along with a new <b>Ruler of the Skies</b> set for Pokemon TCG Pocket. Both sets will feature a Mega Rayquaza ex and release on July 31st.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Storm-Emeralda-Teaser-200x113.jpg\" width=\"\" /><br />\n\t\t\t<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/pokebeach-20260618-08200530-129360269360266-200x113.jpg\" width=\"\" /><br />\n\t\t\t<br />\n\t\t\t\t<br />\n\t\t\t\tMega Rayquaza ex (TCG)... </div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-and-%E2%80%9Cdelta-reign%E2%80%9D-tcg-sets-officially-teased-along-with-pocket%E2%80%99s-%E2%80%9Cruler-of-the-skies-%E2%80%9D.156877/\">Read more</a></div>",
+      "id": "c0930d4356de",
+      "title_fr": "Pull of the day!",
+      "summary_fr": "Opened my first pack of Ascended Heroes and pulled this lil cutie :D &#32; submitted by &#32; /u/cryptid-kidd [link] &#32; [comments]",
       "category": "leaks_niche",
       "subcategories": [
         "leaks_niche"
       ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-and-%E2%80%9Cdelta-reign%E2%80%9D-tcg-sets-officially-teased-along-with-pocket%E2%80%99s-%E2%80%9Cruler-of-the-skies-%E2%80%9D.156877/",
-      "published_at": "2026-06-21T16:56:33+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/pokebeach-20260618-08200530-129360269360266.jpg",
-      "score": 24,
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucyuy0/pull_of_the_day/",
+      "published_at": "2026-06-22T22:16:44+00:00",
+      "image_url": "https://preview.redd.it/6tym811bsw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de52a54ce8c4e3310b9c5413ad05a015aea8deb4",
+      "score": 30,
       "tags": [],
       "extra": {
-        "weight": 5
+        "weight": 4
       },
       "all_sources": [
         {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-and-%E2%80%9Cdelta-reign%E2%80%9D-tcg-sets-officially-teased-along-with-pocket%E2%80%99s-%E2%80%9Cruler-of-the-skies-%E2%80%9D.156877/"
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucyuy0/pull_of_the_day/"
         }
       ]
     },
     {
-      "id": "d0df97b3e179",
-      "title_fr": "The Pokemon Company Launches AI Competition to Build the Strongest Pokemon TCG Player, Featuring $300,000+ in Prizes",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\t<a class=\"link link--internal\" href=\"https://www.pokebeach.com/news/2026/06/Pokemon-TCG-AI-Battle-Challenge.jpg\"><img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Pokemon-TCG-AI-Battle-Challenge-200x121.jpg\" width=\"\" /></a>The Pokemon Company has launched the &quot;<a class=\"link link--external\" href=\"https://ptcg-abc.pokemon.co.jp/?lang=en\" rel=\"nofollow ugc noopener\" target=\"_blank\">Pokemon TCG AI Battle Challenge</a>,&quot; a competition that invites developers from around the world to create AI players capable of competing against one another in Pokemon TCG matches.<br />\nThe mission statement of the competition reads:<br />\nAI has faced other strategic tabletop games like Chess, Shogi, and Go. Now, AI takes on a new challenge: the Pokemon Trading... </div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/forums/threads/the-pokemon-company-launches-ai-competition-to-build-the-strongest-pokemon-tcg-player-featuring-300-000-in-prizes.156876/\">Read more</a></div>",
+      "id": "104ccbbd6abb",
+      "title_fr": "Eeveelution VMax Binder Page",
+      "summary_fr": "Have a page I’m trying to figure out how to fill out. I have these 9 planned but it’s a 3x4 page, and I would love to find 3 cards to fill blank pages. Any of you have any good recommendations for those few pages or new ways to approach it?",
       "category": "leaks_niche",
       "subcategories": [
         "leaks_niche"
       ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/the-pokemon-company-launches-ai-competition-to-build-the-strongest-pokemon-tcg-player-featuring-300-000-in-prizes.156876/",
-      "published_at": "2026-06-21T10:38:45+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/Pokemon-TCG-AI-Battle-Challenge.jpg",
-      "score": 24,
-      "tags": [],
-      "extra": {
-        "weight": 5
-      },
-      "all_sources": [
-        {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/the-pokemon-company-launches-ai-competition-to-build-the-strongest-pokemon-tcg-player-featuring-300-000-in-prizes.156876/"
-        }
-      ]
-    },
-    {
-      "id": "5cbc6b746381",
-      "title_fr": "“Pitch Black” Preorders Now Live on Pokemon Center!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\t<a class=\"link link--internal\" href=\"https://www.pokebeach.com/news/2026/04/Pitch-Black-Pokemon-Center-Elite-Trainer-Box-Front.jpg\"><img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/04/Pitch-Black-Pokemon-Center-Elite-Trainer-Box-Front-200x191.jpg\" width=\"\" /></a>Preorders for select <a class=\"link link--internal\" href=\"https://www.pokebeach.com/2026/04/pitch-black-tcg-set-and-product-lineup-officially-revealed\">Pitch Black</a> products are now available on the Pokemon Center:<br />\n<br />\n<a class=\"link link--external\" href=\"https://www.pokemoncenter.com/product/10-10416-112\" rel=\"nofollow ugc noopener\" target=\"_blank\">Elite Trainer Box</a><br />\n<a class=\"link link--external\" href=\"https://www.pokemoncenter.com/product/10-10422-109\" rel=\"nofollow ugc noopener\" target=\"_blank\">Booster Bundle</a><br />\n<a class=\"link link--external\" href=\"https://www.pokemoncenter.com/product/10-10425-120\" rel=\"nofollow ugc noopener\" target=\"_blank\">Booster Box</a><br />\n<br />\nThe set officially releases on July 17th. Thus, preorders opened 37 days before; for Chaos Rising, it was 39 days before. It seems the Pokemon Center&#039;s new preorder window is a little over a month before a set releases.",
-      "category": "nouveaux_sets",
-      "subcategories": [
-        "nouveaux_sets"
-      ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cpitch-black%E2%80%9D-preorders-now-live-on-pokemon-center.156867/",
-      "published_at": "2026-06-13T13:59:14+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/04/Pitch-Black-Pokemon-Center-Elite-Trainer-Box-Front.jpg",
-      "score": 23,
-      "tags": [],
-      "extra": {
-        "weight": 5
-      },
-      "all_sources": [
-        {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cpitch-black%E2%80%9D-preorders-now-live-on-pokemon-center.156867/"
-        }
-      ]
-    },
-    {
-      "id": "002265780df4",
-      "title_fr": "“Fantastical Parade” Announced for “Pocket,” Introduces Stadium Cards to the Game!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tThe next Pokemon TCG Pocket set will be named <b>Fantastical Parade</b> and will release on January 29th! It will be headlined by Mega Gardevoir ex and feature festival-themed illustration.<br />\nDespite being a main set (B2), there is only one booster pack this time. All previous main sets featured multiple.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/01/Pokemon_TCG_Pocket_Fantastical_Parade_Pack_Art-104x200.png\" width=\"\" />...",
-      "category": "nouvelles_cartes",
-      "subcategories": [
-        "nouvelles_cartes"
-      ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cfantastical-parade%E2%80%9D-announced-for-%E2%80%9Cpocket-%E2%80%9D-introduces-stadium-cards-to-the-game.156640/",
-      "published_at": "2026-06-18T15:34:27+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/01/Pokemon_TCG_Pocket_Fantastical_Parade_Mega_Gardevoir_ex.jpg",
-      "score": 23,
-      "tags": [],
-      "extra": {
-        "weight": 5
-      },
-      "all_sources": [
-        {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cfantastical-parade%E2%80%9D-announced-for-%E2%80%9Cpocket-%E2%80%9D-introduces-stadium-cards-to-the-game.156640/"
-        }
-      ]
-    },
-    {
-      "id": "1b0a91ccf3b0",
-      "title_fr": "All 27 Starter Pokemon Promos Revealed from “First Partner Illustration Collections!”",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tJapan has revealed its versions of our <a class=\"link link--internal\" href=\"https://www.pokebeach.com/2026/05/first-partner-illustration-collection-series-3-revealed-for-august-featuring-hoenn-kalos-and-paldea\">First Partner Illustration Collections</a>, called the &quot;30th Celebration Card Sets.&quot; As posted before, each will release on October 16th for 1,200 yen. Each box will feature three Starter Pokemon promos from the same generation, two 30th Celebration booster packs, and a 3-card paper stand to display each of the promos.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/thumb_5eedde47-200x144.jpg\" width=\"\" />... </div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/forums/threads/all-27-starter-pokemon-promos-revealed-from-%E2%80%9Cfirst-partner-illustration-collections-%E2%80%9D.156859/\">Read more</a></div>",
-      "category": "nouvelles_cartes",
-      "subcategories": [
-        "nouvelles_cartes"
-      ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/all-27-starter-pokemon-promos-revealed-from-%E2%80%9Cfirst-partner-illustration-collections-%E2%80%9D.156859/",
-      "published_at": "2026-06-11T21:54:19+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/promo_109_tddzzzgs.jpg",
-      "score": 23,
-      "tags": [],
-      "extra": {
-        "weight": 5
-      },
-      "all_sources": [
-        {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/all-27-starter-pokemon-promos-revealed-from-%E2%80%9Cfirst-partner-illustration-collections-%E2%80%9D.156859/"
-        }
-      ]
-    },
-    {
-      "id": "5d7075472c5a",
-      "title_fr": "“Ascended Heroes Tins” Revealed for August!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tThree new &quot;Ascended Heroes Tins&quot; will release on August 28th for $21.99 each!<br />\nThey&#039;ll each feature four booster packs of Ascended Heroes and a reprinted promo of Mega Meganium ex, Mega Emboar ex, or Mega Feraligatr ex. The promos previously released in the <a class=\"link link--internal\" href=\"https://www.pokebeach.com/2025/12/alternate-art-promos-of-mega-meganium-ex-mega-emboar-ex-and-mega-feraligatr-ex-revealed-for-ascended-heroes\">Ascended Heroes Mega Boxes</a> in January.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/Pokemon-TCG-Mega-Evolution—Ascended-Heroes-Tin-Mega-Meganium_EN-1206x1500-3d8f6f2-1-161x200.jpg\" width=\"\" />... </div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/forums/threads/%E2%80%9Cascended-heroes-tins%E2%80%9D-revealed-for-august.156878/\">Read more</a></div>",
-      "category": "stocks",
-      "subcategories": [
-        "stocks"
-      ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cascended-heroes-tins%E2%80%9D-revealed-for-august.156878/",
-      "published_at": "2026-06-19T19:20:11+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/Pokemon-TCG-Mega-Evolution—Ascended-Heroes-Tin-Mega-Feraligatr_EN-1206x1500-3d8f6f2-1.jpg",
-      "score": 23,
-      "tags": [],
-      "extra": {
-        "weight": 5
-      },
-      "all_sources": [
-        {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cascended-heroes-tins%E2%80%9D-revealed-for-august.156878/"
-        }
-      ]
-    },
-    {
-      "id": "20d9b95f2b94",
-      "title_fr": "Worlds 2026 Promo Cards, Competitor’s Kits, Pokemon Center Plush, and Vendors Revealed!",
-      "summary_fr": "<div class=\"bbWrapper\"><blockquote class=\"bbCodeBlock bbCodeBlock--expandable bbCodeBlock--quote js-expandWatch\">\n\t\n\t<div class=\"bbCodeBlock-content\">\n\t\t\n\t\t<div class=\"bbCodeBlock-expandContent js-expandContent \">\n\t\t\tTPCi has revealed four promo cards that will release to celebrate this year&#039;s Worlds / PokemonXP event.<br />\nThe first is the annual Worlds Pikachu promo, which was <a class=\"link link--internal\" href=\"https://www.pokebeach.com/2026/06/pikachu-2026-world-championship-promo-revealed\">already revealed in Japanese</a>. As usual, it will be available as a participation prize at Pokemon League &quot;Worlds Celebration&quot; tournaments from August 24th to August 30th.<br />\n<br />\n\t\t\t<br />\n\t\t\t\t<img class=\"bbImage \" height=\"\" src=\"https://www.pokebeach.com/news/2026/06/MEP_EN_93-144x200.png\" width=\"\" /><br />\n\t\t\t<br />\n\t\t<br />\n<br />\nThe winner of each age division will also receive a &quot;Winner&quot; stamped... </div>\n\t\t<div class=\"bbCodeBlock-expandLink js-expandLink\"><a tabindex=\"0\">Click to expand...</a></div>\n\t</div>\n</blockquote><br />\n<a class=\"link link--internal\" href=\"https://www.pokebeach.com/forums/threads/worlds-2026-promo-cards-competitor%E2%80%99s-kits-pokemon-center-plush-and-vendors-revealed.156875/\">Read more</a></div>",
-      "category": "stocks",
-      "subcategories": [
-        "stocks"
-      ],
-      "source_name": "PokeBeach",
-      "source_url": "https://www.pokebeach.com/forums/threads/worlds-2026-promo-cards-competitor%E2%80%99s-kits-pokemon-center-plush-and-vendors-revealed.156875/",
-      "published_at": "2026-06-19T03:17:51+00:00",
-      "image_url": "https://www.pokebeach.com/news/2026/06/MEP_EN_92.png",
-      "score": 23,
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucyn8k/eeveelution_vmax_binder_page/",
+      "published_at": "2026-06-22T22:08:20+00:00",
+      "image_url": "https://preview.redd.it/mnzgak1tqw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c3ae4506e6b9a96e33da87f72e54003a48fcc6e",
+      "score": 30,
       "tags": [
-        "Pikachu"
+        "Eevee"
       ],
       "extra": {
-        "weight": 5
+        "weight": 4
       },
       "all_sources": [
         {
-          "name": "PokeBeach",
-          "url": "https://www.pokebeach.com/forums/threads/worlds-2026-promo-cards-competitor%E2%80%99s-kits-pokemon-center-plush-and-vendors-revealed.156875/"
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucyn8k/eeveelution_vmax_binder_page/"
+        }
+      ]
+    },
+    {
+      "id": "bc1215b5173e",
+      "title_fr": "Qual lado eu escolho?",
+      "summary_fr": "&#32; submitted by &#32; /u/Eveecaught [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucyhkq/qual_lado_eu_escolho/",
+      "published_at": "2026-06-22T22:02:22+00:00",
+      "image_url": "https://preview.redd.it/kyasrhsppw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af0b640f42faea71b11799ea75c9629e88d8a454",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucyhkq/qual_lado_eu_escolho/"
+        }
+      ]
+    },
+    {
+      "id": "7b434c5e21a7",
+      "title_fr": "Repeated cards",
+      "summary_fr": "Hello Im a new collector, can someone tell me what can I do with these cards pls? They are all repeated and I don’t have any friends collecting Collection: wild force &#32; submitted by &#32; /u/No_Lynx1004 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucy78q/repeated_cards/",
+      "published_at": "2026-06-22T21:51:25+00:00",
+      "image_url": "https://preview.redd.it/bfpzv99snw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d5436333da034e78201c8198b0843fa81c65d30",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucy78q/repeated_cards/"
+        }
+      ]
+    },
+    {
+      "id": "d95312625940",
+      "title_fr": "Anyone in Canada get their Ascended Heroes Booster Bundle from Hobbiesville?",
+      "summary_fr": "I placed my pre order back in April, it said it was to ship out 2-3 weeks after I placed the order(mid May), I still have not received any type of notification regarding my order. I reached out to them and they told me there was a shipment delay to Canadian retailers and that it was pushed back to Mid June. It’s now the end of June and I still haven’t gotten any word on when I’ll be getting my order.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucxxyq/anyone_in_canada_get_their_ascended_heroes/",
+      "published_at": "2026-06-22T21:41:28+00:00",
+      "image_url": "https://preview.redd.it/mz2cj5d0mw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4154b89a6949f8430f4008288328ef725d32fb1",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucxxyq/anyone_in_canada_get_their_ascended_heroes/"
+        }
+      ]
+    },
+    {
+      "id": "5fd2db964eb3",
+      "title_fr": "My mega Lucario deck",
+      "summary_fr": "It has 2 proxies Legacy energy and run away draw &#32; submitted by &#32; /u/heartsOfNothing [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucx7ch/my_mega_lucario_deck/",
+      "published_at": "2026-06-22T21:13:11+00:00",
+      "image_url": "https://preview.redd.it/rjm49poygw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15b43d13bd715e4901836e5c5a3f5a817d26bd15",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucx7ch/my_mega_lucario_deck/"
+        }
+      ]
+    },
+    {
+      "id": "7c647f53f0fc",
+      "title_fr": "Guys there are some cards that could go with this int the binder?",
+      "summary_fr": "&#32; submitted by &#32; /u/BirthdayTechnical144 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucx5bl/guys_there_are_some_cards_that_could_go_with_this/",
+      "published_at": "2026-06-22T21:11:06+00:00",
+      "image_url": "https://preview.redd.it/q00kk8dlgw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bb9c028cb6ca72cba7dca7dae14f8ec74abc844",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucx5bl/guys_there_are_some_cards_that_could_go_with_this/"
+        }
+      ]
+    },
+    {
+      "id": "ae666492be6d",
+      "title_fr": "Is this a good long term storage",
+      "summary_fr": "If not what do I do (not looking to buy supplies Im selling almost everything other than this) &#32; submitted by &#32; /u/Typical-Tie-5430 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1ucwskk/is_this_a_good_long_term_storage/",
+      "published_at": "2026-06-22T20:57:58+00:00",
+      "image_url": "https://preview.redd.it/i4hrdbu8ew8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8f063c58636aa80e1b0a4e8998f2b7639b4ab90",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1ucwskk/is_this_a_good_long_term_storage/"
         }
       ]
     }
   ],
   "stats": {
-    "sources_fetched": 14,
-    "items_raw": 65,
+    "sources_fetched": 15,
+    "items_raw": 90,
     "items_deduplicated": 16,
     "items_selected": 16
   }

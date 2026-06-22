@@ -55,7 +55,7 @@ sources:
   # --- Sites d'actualités via RSS ---
   rss:
     - name: "PokeGuardian"
-      url: "https://www.pokeguardian.com/feed"
+      url: "https://www.pokeguardian.com/feed/"
       lang: en
       weight: 5
 
@@ -93,18 +93,22 @@ sources:
 
   # --- YouTube (RSS par chaîne, SANS clé API) ---
   youtube:
-    - name: "Pokémon Épée et Bouclier FR"
-      channel_id: "UCEqZKut1SBqSf2nCmHGFgYQ"
-      lang: fr
-      weight: 4
     - name: "PokeGuardian YT"
       channel_id: "UCpukZbYVSEPZIqgfVLBd9Yw"
       lang: en
-      weight: 4
-    - name: "Rare Candy TCG"
-      channel_id: "UCXnTMFCMCeN8Ot0i0v-4sIg"
+      weight: 5
+    - name: "Rudy Pokemon TCG"
+      channel_id: "UCyJPrCHBGpqcUCYRHFbqF9w"
       lang: en
-      weight: 3
+      weight: 4
+    - name: "Omnipoke"
+      channel_id: "UCnHEnFBMPmDDXfr7Y4cpv_w"
+      lang: en
+      weight: 4
+    - name: "Pokémon Légendaire (FR)"
+      channel_id: "UCj7w6N3TXoJdkCWMtMzXHyg"
+      lang: fr
+      weight: 4
 
   # --- Tweets manuels (colle ici les URLs des tweets qui t'intéressent) ---
   # Le pipeline récupère et résume chaque tweet automatiquement

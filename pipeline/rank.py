@@ -24,7 +24,19 @@ def _freshness_bonus(published_at: str) -> float:
     return 0.0
 
 
+def _age_days(published_at: str) -> float:
+    try:
+        dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+        return (datetime.now(timezone.utc) - dt).total_seconds() / 86400
+    except Exception:
+        return 0.0
+
+
 def rank_and_cut(items: List[NewsItem], max_blocks: int = 16) -> List[NewsItem]:
+    # Filtre d'âge : on exclut les articles > 7 jours sauf si pas assez de contenu
+    fresh = [i for i in items if _age_days(i.published_at) <= 7]
+    items = fresh if len(fresh) >= 5 else items
+
     # Score final = score pertinence + bonus fraîcheur
     for item in items:
         item.score = min(100, item.score + int(_freshness_bonus(item.published_at)))

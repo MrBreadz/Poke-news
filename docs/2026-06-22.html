@@ -10,350 +10,901 @@
 </head>
 <body>
 
+<!-- ══════════════════════  HEADER  ══════════════════════ -->
 <header class="site-header">
   <div class="header-inner">
     <div class="header-brand">
       <span class="brand-icon">⚡</span>
       <div>
         <h1 class="brand-title">Pokémon TCG Daily</h1>
-        <p class="brand-subtitle">14 blocs · 9 sources</p>
+        <p class="brand-subtitle">16 blocs · 15 sources</p>
       </div>
     </div>
 
+    <!-- Navigation par date -->
     <nav class="date-nav">
-      <span class="nav-btn disabled">←</span>
+      
+        <span class="nav-btn disabled">←</span>
+      
+
       <div class="date-current">
         <span class="date-label">ÉDITION DU</span>
         <span class="date-value">2026-06-22</span>
       </div>
-      <span class="nav-btn disabled">→</span>
+
+      
+        <span class="nav-btn disabled">→</span>
+      
     </nav>
 
+    <!-- Filtres catégories -->
     <div class="filters" id="filters">
       <button class="filter-btn active" data-cat="all">Tout</button>
-      <button class="filter-btn" data-cat="nouveaux_sets" style="--accent:#8b5cf6">🃏 Nouveaux Sets</button>
-      <button class="filter-btn" data-cat="nouvelles_cartes" style="--accent:#3b82f6">✨ Nouvelles Cartes</button>
-      <button class="filter-btn" data-cat="prix_marche" style="--accent:#f97316">📈 Prix &amp; Marché</button>
-      <button class="filter-btn" data-cat="leaks_niche" style="--accent:#ec4899">🔍 Leaks &amp; Niche JP</button>
-      <button class="filter-btn" data-cat="stocks" style="--accent:#f59e0b">📦 Stocks &amp; Deals</button>
-      <button class="filter-btn" data-cat="cartes_gradees" style="--accent:#eab308">🏆 Cartes Gradées</button>
-      <button class="filter-btn" data-cat="impression" style="--accent:#64748b">🖨️ Impression</button>
+      
+      
+        
+          
+          <button class="filter-btn" data-cat="nouvelles_cartes"
+            style="--accent: #3b82f6">
+            ✨
+            Nouvelles Cartes
+          </button>
+        
+      
+        
+          
+          <button class="filter-btn" data-cat="stocks"
+            style="--accent: #f59e0b">
+            📦
+            Stocks & Deals
+          </button>
+        
+      
+        
+          
+          <button class="filter-btn" data-cat="leaks_niche"
+            style="--accent: #ec4899">
+            🔍
+            Leaks & Niche JP
+          </button>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     </div>
   </div>
 </header>
 
+<!-- ══════════════════════  BENTO GRID  ══════════════════════ -->
 <main class="bento-grid" id="bento">
+  
+  
+  
+  
+  
 
-  <!-- 1 — nouveaux_sets — LARGE (score 95) -->
-  <article class="bento-card bento-large" data-cat="nouveaux_sets" style="--accent:#8b5cf6">
+  <article class="bento-card bento-small" data-cat="nouvelles_cartes" style="--accent: #3b82f6">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png" alt="Terapagos" loading="lazy" width="400" height="260">
+      
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Odds of a 151, or black bolt/white flare for all gens?" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">🃏 Nouveaux Sets</span>
+        <span class="cat-tag">✨ Nouvelles Cartes</span>
+        <span class="timestamp">il y a moins d'1h</span>
+      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Odds of a 151, or black bolt/white flare for all gens?</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">It's so crazy to me that we still don't have full art cards for some certain mons, and it feels like a full line of Gen specific sets would be the best bet at it happening, and it would be awesome for all the regions to have their own pack sets. &#32; submitted by &#32; /u/CT101drawz [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+        <div class="card-tags">
+          
+            <span class="tag">151</span>
+          
+        </div>
+      
+
+      <!-- Sources -->
+      <div class="card-footer">
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucycrl/odds_of_a_151_or_black_boltwhite_flare_for_all/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
+      </div>
+    </div>
+
+    <!-- Accent bar -->
+    <div class="accent-bar"></div>
+  </article>
+  
+  
+  
+  
+  
+
+  <article class="bento-card bento-small" data-cat="stocks" style="--accent: #f59e0b">
+    <!-- Visuel -->
+    <div class="card-visual">
+      
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" alt="Vendor has been setting up stock times for someone she knows/likes to come take it all at 4 different locations. Is there anything I can do? hopeless.." loading="lazy" width="400" height="250">
+      
+    </div>
+
+    <!-- Contenu -->
+    <div class="card-body">
+      <!-- Tag + horodatage -->
+      <div class="card-meta">
+        <span class="cat-tag">📦 Stocks & Deals</span>
         <span class="timestamp">il y a 1h</span>
       </div>
-      <h2 class="card-title">Stellar Crown (SV7) : date de sortie française confirmée au 13 septembre 2026</h2>
-      <p class="card-summary">The Pokémon Company a officiellement annoncé la sortie française de Stellar Crown le 13 septembre 2026. Ce 7e set de la série Écarlate et Violet comprendra plus de 175 cartes, avec Terapagos Stellar comme carte phare du set. Des illustrations rares inédites représentant les formes de Terapagos ont été dévoilées lors d'un direct Pokémon. Les précommandes sont désormais ouvertes chez les revendeurs agréés.</p>
-      <div class="card-tags">
-        <span class="tag">SV7</span>
-        <span class="tag">Stellar Crown</span>
-        <span class="tag">Terapagos</span>
-      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Vendor has been setting up stock times for someone she knows/likes to come take it all at 4 different locations. Is there anything I can do? hopeless..</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">There’s a vendor at my local Walmart who is completely abusing her position. She’s been tipping off a guy she knows about the exact dates and times she réapprovisionnements any time Destined Rivals or Ascended Heroes ETBs are getting stocked. Because she tells him exactly when she’s putting the boxes out, he or one of his group chat friends are always waiting right there in the aisle to buy up every single item the second it hits the shelf, leaving absolutely nothing for regular shoppers who are just trying to buy things fairly.</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://www.pokeguardian.com" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
-        <a href="https://reddit.com/r/PokemonTCG" target="_blank" rel="noopener" class="source-btn">Voir la source (2) →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucwqzx/vendor_has_been_setting_up_stock_times_for/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 2 — prix_marche — LARGE (score 88) -->
-  <article class="bento-card bento-large" data-cat="prix_marche" style="--accent:#f97316">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" alt="Charizard" loading="lazy" width="400" height="260">
+      
+        <img src="https://preview.redd.it/09onallrfw8h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e4f6eb4475ef78ab488c4fb23bf35a7b828d8c12" alt="My Own binder and Collection after 2 weeks!" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">📈 Prix &amp; Marché</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a 1h</span>
+      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">My Own binder and Collection after 2 weeks!</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">Hi! I hope this is allowed and not breaking any of the rules! I got back into pokemon about 2 weeks ago after not collecting for about 8-9 years (im 18 currently) I got into collecting due to creators such as Beard Dad, Sean and Coop and although I said i would just watch the video and would not start collecting I couldnt help myself!</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
+      <div class="card-footer">
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucx11d/my_own_binder_and_collection_after_2_weeks/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
+      </div>
+    </div>
+
+    <!-- Accent bar -->
+    <div class="accent-bar"></div>
+  </article>
+  
+  
+  
+  
+  
+
+  <article class="bento-card bento-small" data-cat="stocks" style="--accent: #f59e0b">
+    <!-- Visuel -->
+    <div class="card-visual">
+      
+        <img src="https://preview.redd.it/iycq595z7w8h1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=ef126ec8bf209de4acf51955ad19cd71a40dcfbe" alt="My copy of Pokemon TCG for the Game Boy still has the card in it" loading="lazy" width="400" height="250">
+      
+    </div>
+
+    <!-- Contenu -->
+    <div class="card-body">
+      <!-- Tag + horodatage -->
+      <div class="card-meta">
+        <span class="cat-tag">📦 Stocks & Deals</span>
+        <span class="timestamp">il y a 1h</span>
+      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">My copy of Pokemon TCG for the Game Boy still has the card in it</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">Bought this about 12 years ago from a comic book store for about $20. Granted it was sealed back then but I couldn't resist opening it to play the game. Even got a Dragonite as the promo!</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
+      <div class="card-footer">
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucvvc2/my_copy_of_pokemon_tcg_for_the_game_boy_still_has/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
+      </div>
+    </div>
+
+    <!-- Accent bar -->
+    <div class="accent-bar"></div>
+  </article>
+  
+  
+  
+  
+  
+
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
+    <div class="card-visual">
+      
+        <img src="https://www.pokebeach.com/news/2025/02/pre.165.dragapult_ex.png" alt="NAIC on Fraud Watch? Looking At the Surprises From NAIC" loading="lazy" width="400" height="250">
+      
+    </div>
+
+    <!-- Contenu -->
+    <div class="card-body">
+      <!-- Tag + horodatage -->
+      <div class="card-meta">
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
         <span class="timestamp">il y a 2h</span>
       </div>
-      <h2 class="card-title">Charizard ex Alt Art SV3 : la cote dépasse 85 € sur Cardmarket</h2>
-      <p class="card-summary">Le Charizard ex Illustration Rare du set Flammes Obsidiennes continue son ascension sur le marché secondaire, dépassant désormais les 85 € sur Cardmarket. Cette hausse de +12% en deux semaines est attribuée à la demande croissante des collectionneurs avant la sortie de SV7. Sur TCGPlayer, la carte s'échange autour de 90 USD. Les analystes prévoient une stabilisation à la sortie du nouveau set.</p>
-      <div class="price-widget">
-        <span class="price-value">85 €</span>
-        <span class="price-change up">+12%</span>
-        <span class="price-usd">/ $90</span>
-      </div>
-      <div class="card-tags">
-        <span class="tag">Charizard</span>
-        <span class="tag">SV3</span>
-        <span class="tag">Cardmarket</span>
-      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">NAIC on Fraud Watch? Looking At the Surprises From NAIC</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">The North America International Championships has just concluded and there were definitely some surprising results. I still maintain that decks besides Dragapult ex are mostly bad in the sense that they are simply inferior, but that doesn&#039;t mean that they can&#039;t win games. The metagame continues its trend of sprinkling random other decks into top finishes, while Dragapult still maintains its dominant spot in terms of popularity and results.</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/PokeInvesting" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.pokebeach.com/forums/threads/naic-on-fraud-watch-looking-at-the-surprises-from-naic.156880/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 3 — nouvelles_cartes — LARGE (score 86) -->
-  <article class="bento-card bento-large" data-cat="nouvelles_cartes" style="--accent:#3b82f6">
+  <article class="bento-card bento-small" data-cat="nouvelles_cartes" style="--accent: #3b82f6">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" alt="Umbreon" loading="lazy" width="400" height="260">
+      
+        <img src="https://preview.redd.it/xktxgw8vcw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68f68df391c5c93fbe66c4cdc033b21c59061067" alt="Took a chance on some of those dollar store mystery packs" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
         <span class="cat-tag">✨ Nouvelles Cartes</span>
-        <span class="timestamp">il y a 45min</span>
+        <span class="timestamp">il y a 1h</span>
       </div>
-      <h2 class="card-title">Umbreon ex Full Art : nouvelle illustration rare révélée pour SV7</h2>
-      <p class="card-summary">The Pokémon Company a officiellement révélé une nouvelle carte Umbreon ex Full Art pour Stellar Crown. L'illustration signée par Mitsuhiro Arita représente Umbreon dans un décor nocturne avec des détails dorés lumineux. Cette carte est déjà considérée comme l'une des plus belles du set. Les collectionneurs spécialistes de la ligne évolutive d'Évoli anticipent une forte demande dès la sortie.</p>
-      <div class="card-tags">
-        <span class="tag">Umbreon</span>
-        <span class="tag">SV7</span>
-        <span class="tag">illustration rare</span>
-      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Took a chance on some of those dollar store mystery packs</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">I managed to get 4 boosters packs out of them. Not many hits but on the last pack I pulled this beauty! Maybe not a super valuable card but I LOVE the illustration and the way it sparkles!</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://www.pokebeach.com" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucwl7s/took_a_chance_on_some_of_those_dollar_store/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 4 — nouvelles_cartes — MEDIUM (score 83) -->
-  <article class="bento-card bento-medium" data-cat="nouvelles_cartes" style="--accent:#3b82f6">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Pikachu" loading="lazy" width="400" height="180">
+      
+        <img src="https://www.pokebeach.com/news/2026/06/pokebeach-20260614-15091020-946341.jpg" alt="Pokemon North America International Championships to Move to Chicago!" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">✨ Nouvelles Cartes</span>
-        <span class="timestamp">il y a 30min</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a 7h</span>
       </div>
-      <h2 class="card-title">Pikachu Illustration Rare : nouvelle carte par Mitsuhiro Arita pour SV7</h2>
-      <p class="card-summary">Une nouvelle carte Pikachu Illustration Rare illustrée par Mitsuhiro Arita a été dévoilée pour Stellar Crown. L'artiste historique signe ici une illustration mettant en scène Pikachu sous un ciel étoilé. Cette carte devrait susciter un engouement particulier chez les collectionneurs de Pikachu.</p>
-      <div class="card-tags"><span class="tag">Pikachu</span><span class="tag">SV7</span></div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Pokemon North America International Championships to Move to Chicago!</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">TPCi has announced that next year&#039;s North America International Championships will take place in Chicago, Illinois at the McCormick Place Convention Center. For the last three years it was held in New Orleans. TPCi has cited the move is due to growth, allowing NAIC to become a larger event.</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://pokemondb.net" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.pokebeach.com/forums/threads/pokemon-north-america-international-championships-to-move-to-chicago.156874/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 5 — prix_marche — MEDIUM (score 80) -->
-  <article class="bento-card bento-medium" data-cat="prix_marche" style="--accent:#f97316">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" alt="Lucario" loading="lazy" width="400" height="180">
+      
+        <img src="https://preview.redd.it/romfzqilsw8h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bc26a6cfc7a1eed2bff1f713a21c021251719819" alt="A couple of vintage from the collection" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">📈 Prix &amp; Marché</span>
-        <span class="timestamp">il y a 10h</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a moins d'1h</span>
       </div>
-      <h2 class="card-title">Analyse : les cartes japonaises prennent +15% depuis janvier</h2>
-      <p class="card-summary">Une analyse publiée sur r/PokeInvesting montre que les cartes du marché japonais ont enregistré une hausse moyenne de 15% depuis le début de l'année sur Cardmarket. Le yen faible rend les imports JP plus attractifs pour les collectionneurs européens.</p>
-      <div class="price-widget">
-        <span class="price-change up">+15% depuis janvier</span>
-      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">A couple of vintage from the collection</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">&#32; submitted by &#32; /u/cozy-campf1re [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/PokeInvesting" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucywi0/a_couple_of_vintage_from_the_collection/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 6 — leaks_niche — LARGE (score 82) -->
-  <article class="bento-card bento-large" data-cat="leaks_niche" style="--accent:#ec4899">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" alt="Lugia" loading="lazy" width="400" height="260">
+      
+        <img src="https://preview.redd.it/6tym811bsw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de52a54ce8c4e3310b9c5413ad05a015aea8deb4" alt="Pull of the day!" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">🔍 Leaks &amp; Niche JP</span>
-        <span class="timestamp">il y a 2h</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a moins d'1h</span>
       </div>
-      <h2 class="card-title">Leak JP : les premières cartes du set SV8 filtrent sur les réseaux japonais</h2>
-      <p class="card-summary">⚠️ Rumeur non confirmée — Des images de ce qui semble être des cartes du prochain set SV8 circulent sur les réseaux sociaux japonais via @pokemon_yosou. On aperçoit plusieurs nouvelles illustrations de Pokémon légendaires et une nouvelle mécanique de jeu potentielle. Ces fuites proviennent de sources habituellement fiables dans la communauté JP, mais restent à prendre avec précaution jusqu'à confirmation officielle.</p>
-      <div class="card-tags">
-        <span class="tag">SV8</span>
-        <span class="tag">leak</span>
-      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Pull of the day!</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">Opened my first pack of Ascended Heroes and pulled this lil cutie :D &#32; submitted by &#32; /u/cryptid-kidd [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://x.com/pokemon_yosou" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucyuy0/pull_of_the_day/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 7 — impression — MEDIUM (score 76) -->
-  <article class="bento-card bento-medium" data-cat="impression" style="--accent:#64748b">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" alt="Rayquaza" loading="lazy" width="400" height="180">
+      
+        <img src="https://preview.redd.it/mnzgak1tqw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c3ae4506e6b9a96e33da87f72e54003a48fcc6e" alt="Eeveelution VMax Binder Page" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">🖨️ Impression</span>
-        <span class="timestamp">il y a 4h</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a moins d'1h</span>
       </div>
-      <h2 class="card-title">Taux d'insertion SV7 : prédictions JP — 1 Illustration Rare / 3 boosters</h2>
-      <p class="card-summary">⚠️ Non officiel — Selon des sources proches des imprimeries japonaises relayées par @jam_ojisan87, Stellar Crown (SV7) présenterait un pull rate légèrement plus favorable que SV5 et SV6, avec environ 1 Illustration Rare par 3 boosters. Non confirmé par The Pokémon Company.</p>
-      <div class="card-tags"><span class="tag">SV7</span><span class="tag">taux d'insertion</span></div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Eeveelution VMax Binder Page</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">Have a page I’m trying to figure out how to fill out. I have these 9 planned but it’s a 3x4 page, and I would love to find 3 cards to fill blank pages. Any of you have any good recommendations for those few pages or new ways to approach it?</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+        <div class="card-tags">
+          
+            <span class="tag">Eevee</span>
+          
+        </div>
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://x.com/jam_ojisan87" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucyn8k/eeveelution_vmax_binder_page/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 8 — stocks — MEDIUM (score 78) -->
-  <article class="bento-card bento-medium" data-cat="stocks" style="--accent:#f59e0b">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png" alt="Mew" loading="lazy" width="400" height="180">
+      
+        <img src="https://preview.redd.it/kyasrhsppw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af0b640f42faea71b11799ea75c9629e88d8a454" alt="Qual lado eu escolho?" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">📦 Stocks &amp; Deals</span>
-        <span class="timestamp">il y a 15min</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a moins d'1h</span>
       </div>
-      <h2 class="card-title">Restock Pokémon 151 : boosters disponibles chez Fnac et Cultura à 5,99 €</h2>
-      <p class="card-summary">Les boosters du set 151 (MEW) sont à nouveau disponibles chez Fnac et Cultura. Ce restock est limité à 6 boosters par commande en ligne. Les boutiques physiques reçoivent leurs livraisons d'ici jeudi. Troisième restock de l'année pour ce set très populaire.</p>
-      <div class="card-tags"><span class="tag">151</span><span class="tag">restock</span></div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Qual lado eu escolho?</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">&#32; submitted by &#32; /u/Eveecaught [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/PKMNTCGDeals" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucyhkq/qual_lado_eu_escolho/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 9 — cartes_gradees — MEDIUM (score 74) -->
-  <article class="bento-card bento-medium" data-cat="cartes_gradees" style="--accent:#eab308">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" alt="Mewtwo" loading="lazy" width="400" height="180">
+      
+        <img src="https://preview.redd.it/bfpzv99snw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d5436333da034e78201c8198b0843fa81c65d30" alt="Repeated cards" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">🏆 Cartes Gradées</span>
-        <span class="timestamp">il y a 8h</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a moins d'1h</span>
       </div>
-      <h2 class="card-title">PSA : les délais repassent à 45 jours pour l'offre Economy</h2>
-      <p class="card-summary">PSA annonce une réduction des délais pour son offre Economy, de 60 à 45 jours, suite aux investissements dans ses nouvelles installations en Arizona. Les populations de Charizard ex SV3 dépassent désormais 2 millions de cartes PSA 10. Tarif : 25 USD/carte.</p>
-      <div class="card-tags"><span class="tag">PSA</span></div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Repeated cards</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">Hello Im a new collector, can someone tell me what can I do with these cards pls? They are all repeated and I don’t have any friends collecting Collection: wild force &#32; submitted by &#32; /u/No_Lynx1004 [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/PokeInvesting" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucy78q/repeated_cards/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 10 — stocks — SMALL (score 72) -->
-  <article class="bento-card bento-small" data-cat="stocks" style="--accent:#f59e0b">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" alt="Eevee" loading="lazy" width="400" height="130">
+      
+        <img src="https://preview.redd.it/mz2cj5d0mw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4154b89a6949f8430f4008288328ef725d32fb1" alt="Anyone in Canada get their Ascended Heroes Booster Bundle from Hobbiesville?" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">📦 Stocks</span>
-        <span class="timestamp">il y a 20min</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a moins d'1h</span>
       </div>
-      <h2 class="card-title">Amazon FR : SV3 boosters à -30% pendant 24h</h2>
-      <div class="price-widget">
-        <span class="price-value">3,99 €</span>
-        <span class="price-change down">-30%</span>
-      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Anyone in Canada get their Ascended Heroes Booster Bundle from Hobbiesville?</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">I placed my pre order back in April, it said it was to ship out 2-3 weeks after I placed the order(mid May), I still have not received any type of notification regarding my order. I reached out to them and they told me there was a shipment delay to Canadian retailers and that it was pushed back to Mid June. It’s now the end of June and I still haven’t gotten any word on when I’ll be getting my order.</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/PKMNTCGDeals" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucxxyq/anyone_in_canada_get_their_ascended_heroes/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 11 — cartes_gradees — SMALL (score 70) -->
-  <article class="bento-card bento-small" data-cat="cartes_gradees" style="--accent:#eab308">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png" alt="Gyarados" loading="lazy" width="400" height="130">
+      
+        <img src="https://preview.redd.it/rjm49poygw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15b43d13bd715e4901836e5c5a3f5a817d26bd15" alt="My mega Lucario deck" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">🏆 Gradées</span>
-        <span class="timestamp">il y a 13h</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a 1h</span>
       </div>
-      <h2 class="card-title">CGC vs PSA 2026 : quel grader choisir ?</h2>
+
+      <!-- Titre -->
+      <h2 class="card-title">My mega Lucario deck</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">It has 2 proxies Legacy energy and run away draw &#32; submitted by &#32; /u/heartsOfNothing [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/PokeInvesting" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucx7ch/my_mega_lucario_deck/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 12 — nouvelles_cartes — MEDIUM (score 77) -->
-  <article class="bento-card bento-medium" data-cat="nouvelles_cartes" style="--accent:#3b82f6">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png" alt="Garchomp" loading="lazy" width="400" height="180">
+      
+        <img src="https://preview.redd.it/q00kk8dlgw8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bb9c028cb6ca72cba7dca7dae14f8ec74abc844" alt="Guys there are some cards that could go with this int the binder?" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">✨ Nouvelles Cartes</span>
-        <span class="timestamp">il y a 10min</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a 1h</span>
       </div>
-      <h2 class="card-title">PokeGuardian dévoile les Trainer Gallery de SV7 — Léon et Charizard sous les étoiles</h2>
-      <p class="card-summary">Les cartes Trainer Gallery de Stellar Crown sont apparues : dresseurs emblématiques sous un thème cosmique, notamment Léon avec Dracaufeu. Présentes au taux d'environ 1 pour 4 boosters, elles figurent parmi les plus recherchées par les collectionneurs.</p>
-      <div class="card-tags"><span class="tag">SV7</span><span class="tag">Charizard</span></div>
+
+      <!-- Titre -->
+      <h2 class="card-title">Guys there are some cards that could go with this int the binder?</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">&#32; submitted by &#32; /u/BirthdayTechnical144 [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://www.pokeguardian.com" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucx5bl/guys_there_are_some_cards_that_could_go_with_this/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
+  
+  
+  
+  
+  
 
-  <!-- 13 — impression — SMALL (score 68) -->
-  <article class="bento-card bento-small" data-cat="impression" style="--accent:#64748b">
+  <article class="bento-card bento-small" data-cat="leaks_niche" style="--accent: #ec4899">
+    <!-- Visuel -->
     <div class="card-visual">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" alt="Snorlax" loading="lazy" width="400" height="130">
+      
+        <img src="https://preview.redd.it/i4hrdbu8ew8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8f063c58636aa80e1b0a4e8998f2b7639b4ab90" alt="Is this a good long term storage" loading="lazy" width="400" height="250">
+      
     </div>
+
+    <!-- Contenu -->
     <div class="card-body">
+      <!-- Tag + horodatage -->
       <div class="card-meta">
-        <span class="cat-tag">🖨️ Impression</span>
-        <span class="timestamp">il y a 9h</span>
+        <span class="cat-tag">🔍 Leaks & Niche JP</span>
+        <span class="timestamp">il y a 1h</span>
       </div>
-      <h2 class="card-title">Problèmes de centrage signalés sur des boosters SV6a FR</h2>
+
+      <!-- Titre -->
+      <h2 class="card-title">Is this a good long term storage</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      
+        <p class="card-summary">If not what do I do (not looking to buy supplies Im selling almost everything other than this) &#32; submitted by &#32; /u/Typical-Tie-5430 [link] &#32; [comments]</p>
+      
+
+      <!-- Widget prix (catégories marché) -->
+      
+
+      <!-- Tags -->
+      
+
+      <!-- Sources -->
       <div class="card-footer">
-        <a href="https://reddit.com/r/pkmntcg" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
+        
+          <a href="https://www.reddit.com/r/PokemonTCG/comments/1ucwskk/is_this_a_good_long_term_storage/" target="_blank" rel="noopener" class="source-btn">
+            Voir la source →
+          </a>
+        
       </div>
     </div>
+
+    <!-- Accent bar -->
     <div class="accent-bar"></div>
   </article>
-
-  <!-- 14 — nouveaux_sets — MEDIUM (score 73) -->
-  <article class="bento-card bento-medium" data-cat="nouveaux_sets" style="--accent:#8b5cf6">
-    <div class="card-visual">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener" class="yt-thumb">
-        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="SV7 vidéo" loading="lazy" width="400" height="180">
-        <span class="yt-play">▶</span>
-      </a>
-    </div>
-    <div class="card-body">
-      <div class="card-meta">
-        <span class="cat-tag">🃏 Nouveaux Sets</span>
-        <span class="timestamp">il y a 5min</span>
-      </div>
-      <h2 class="card-title">Résumé vidéo : tout savoir sur SV7 Stellar Crown en 10 minutes</h2>
-      <p class="card-summary">La chaîne YouTube PokeGuardian publie un récap complet sur SV7 : mécaniques inédites, meilleures cartes, prédictions de prix des Illustration Rare, et conseils d'ouverture.</p>
-      <div class="card-tags"><span class="tag">SV7</span><span class="tag">Stellar Crown</span></div>
-      <div class="card-footer">
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener" class="source-btn">Voir la source →</a>
-      </div>
-    </div>
-    <div class="accent-bar"></div>
-  </article>
-
+  
 </main>
 
+<!-- ══════════════════════  FOOTER  ══════════════════════ -->
 <footer class="site-footer">
   <a href="./archive.html" class="footer-link">📚 Archive des éditions</a>
   <span class="footer-sep">·</span>
-  <span class="footer-info">Édition de démo · 100 % gratuit · Généré par Pokémon TCG Daily</span>
+  <span class="footer-info">Généré le 2026-06-22 · 100 % gratuit · <a href="https://github.com" target="_blank" class="footer-link">GitHub</a></span>
 </footer>
 
 <script src="./assets/app.js"></script>

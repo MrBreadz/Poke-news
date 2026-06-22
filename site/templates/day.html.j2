@@ -45,7 +45,7 @@
     <div class="filters" id="filters">
       <button class="filter-btn active" data-cat="all">Tout</button>
       {% set seen_cats = namespace(cats=[]) %}
-      {% for item in edition.items %}
+      {% for item in edition['items'] %}
         {% if item.category not in seen_cats.cats %}
           {% set _ = seen_cats.cats.append(item.category) %}
           <button class="filter-btn" data-cat="{{ item.category }}"
@@ -61,7 +61,7 @@
 
 <!-- ══════════════════════  BENTO GRID  ══════════════════════ -->
 <main class="bento-grid" id="bento">
-  {% for item in edition.items %}
+  {% for item in edition['items'] %}
   {% set accent = cat_meta[item.category].color if item.category in cat_meta else '#8b5cf6' %}
   {% set icon = cat_meta[item.category].icon if item.category in cat_meta else '🃏' %}
   {% set label = cat_meta[item.category].label if item.category in cat_meta else item.category %}
