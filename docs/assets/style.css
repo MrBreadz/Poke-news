@@ -331,7 +331,7 @@ img { display: block; max-width: 100%; }
 }
 
 .bento-large  .card-summary { -webkit-line-clamp: 5; font-size: 0.85rem; }
-.bento-small  .card-summary { display: none; } /* masqué sur petits blocs */
+.bento-small  .card-summary { -webkit-line-clamp: 2; font-size: 0.75rem; }
 
 /* ── Widget prix ─── */
 .price-widget {

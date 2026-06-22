@@ -9,7 +9,8 @@
       "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\site\\\\templates\")",
       "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\.github\\\\workflows\")",
       "Bash(py --version)",
-      "Bash(python run.py --no-email)"
+      "Bash(python run.py --no-email)",
+      "Bash(python -c ' *)"
     ]
   }
 }

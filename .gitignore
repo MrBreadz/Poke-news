@@ -1,0 +1,9 @@
+# Clés secrètes — NE JAMAIS committer
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/

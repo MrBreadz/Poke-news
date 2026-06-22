@@ -73,12 +73,17 @@ class DegradedSummarizer:
 # ── Mode Gemini Flash (clé gratuite Google AI Studio) ─────────────────────────
 
 class GeminiSummarizer:
+    # Free tier gemini-2.0-flash : 15 req/min, 1500/jour → 5s entre chaque appel
+    _RATE_LIMIT_SECONDS = 5
+
     def __init__(self, api_key: str):
         import google.generativeai as genai
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel("gemini-2.0-flash-lite")
+        self.model = genai.GenerativeModel("gemini-2.0-flash")
 
     def summarize(self, item: NewsItem) -> dict:
+        import time
+        time.sleep(self._RATE_LIMIT_SECONDS)
         prompt = f"""Tu es un expert Pokémon TCG. Résume l'article suivant en FRANÇAIS.
 Règles :
 - Titre court et accrocheur (max 12 mots)
