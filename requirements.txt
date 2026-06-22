@@ -1,0 +1,8 @@
+feedparser==6.0.11
+trafilatura==1.12.2
+requests==2.32.3
+pyyaml==6.0.2
+jinja2==3.1.4
+python-dotenv==1.0.1
+# Optionnel — résumés IA (clé Gemini gratuite Google AI Studio)
+google-generativeai==0.8.3

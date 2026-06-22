@@ -1,0 +1,144 @@
+# ============================================================
+#  FICHIER DE CONFIG — tu peux éditer sans toucher au code
+# ============================================================
+# Mots-clés utilisés pour scorer la pertinence des articles
+keywords_fr_en:
+  - "nouveau set"
+  - "new set"
+  - "alt art"
+  - "illustration rare"
+  - "secret rare"
+  - "print run"
+  - "restock"
+  - "PSA"
+  - "graded"
+  - "leak"
+  - "réimpression"
+  - "Scarlet"
+  - "Violet"
+  - "Stellar Crown"
+  - "SV7"
+  - "SV8"
+  - "151"
+  - "Charizard"
+  - "Cardmarket"
+  - "TCGplayer"
+
+keywords_jp:
+  - "新弾"
+  - "予約"
+  - "再販"
+  - "封入率"
+  - "相場"
+  - "リーク"
+  - "PSA"
+  - "ポケモンカード"
+
+# Ordre de priorité des catégories (les premières = plus importantes)
+categories_priority:
+  - nouveaux_sets
+  - nouvelles_cartes
+  - leaks_niche
+  - impression
+  - stocks
+  - prix_marche
+  - cartes_gradees
+
+# Nombre maximum de blocs affichés par édition
+max_blocks_per_day: 16
+
+# ============================================================
+#  SOURCES — ajoute / retire / commente une ligne pour activer
+# ============================================================
+sources:
+
+  # --- Sites d'actualités via RSS ---
+  rss:
+    - name: "PokeGuardian"
+      url: "https://www.pokeguardian.com/feed"
+      lang: en
+      weight: 5
+
+    - name: "PokeBeach"
+      url: "https://www.pokebeach.com/forums/forum/front-page-news.18/index.rss"
+      lang: en
+      weight: 5
+      # Note: flux parfois instable — scraping HTML en fallback automatique
+
+    - name: "PokemonDB"
+      url: "https://pokemondb.net/news/feed"
+      lang: en
+      weight: 2
+
+    - name: "PocketMonsters"
+      url: "https://pocketmonsters.net/rss"
+      lang: en
+      weight: 3
+
+    - name: "Nintendo Life Pokémon"
+      url: "https://www.nintendolife.com/feeds/news"
+      lang: en
+      weight: 2
+
+  # --- Subreddits (lecture publique, sans compte) ---
+  reddit:
+    - sub: "PokemonTCG"
+      weight: 4
+    - sub: "PokeInvesting"
+      weight: 5
+    - sub: "PKMNTCGDeals"
+      weight: 4
+    - sub: "pkmntcg"
+      weight: 3
+
+  # --- YouTube (RSS par chaîne, SANS clé API) ---
+  youtube:
+    - name: "Pokémon Épée et Bouclier FR"
+      channel_id: "UCEqZKut1SBqSf2nCmHGFgYQ"
+      lang: fr
+      weight: 4
+    - name: "PokeGuardian YT"
+      channel_id: "UCpukZbYVSEPZIqgfVLBd9Yw"
+      lang: en
+      weight: 4
+    - name: "Rare Candy TCG"
+      channel_id: "UCXnTMFCMCeN8Ot0i0v-4sIg"
+      lang: en
+      weight: 3
+
+  # --- Tweets manuels (colle ici les URLs des tweets qui t'intéressent) ---
+  # Le pipeline récupère et résume chaque tweet automatiquement
+  x_manual_seed:
+    - "https://x.com/pokemon_yosou/status/1800000000000000001"
+    - "https://x.com/jam_ojisan87/status/1800000000000000002"
+    - "https://x.com/mouto50987/status/1800000000000000003"
+
+  # --- RSSHub pour X/Twitter (OPTIONNEL, fragile, OFF par défaut) ---
+  x_rsshub:
+    enabled: false
+    instance: "http://localhost:1200"
+    handles:
+      - "pokemon_yosou"
+      - "jam_ojisan87"
+      - "mouto50987"
+
+  # --- TikTok (OPTIONNEL, OFF par défaut) ---
+  tiktok:
+    enabled: false
+
+  # --- APIs de données cartes & prix ---
+  market_api:
+    tcgdex:
+      enabled: true
+      lang: fr
+    pokemontcg_io:
+      enabled: true
+      api_key_env: "POKEMONTCG_API_KEY"
+
+  # --- Cartes/sets dont tu veux suivre le prix au quotidien ---
+  watchlist_cards:
+    - "Charizard ex"
+    - "Umbreon ex"
+    - "151 (MEW)"
+    - "Stellar Crown"
+    - "Pikachu"

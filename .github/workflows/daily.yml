@@ -1,0 +1,76 @@
+name: Pokémon TCG Daily — Pipeline quotidien
+
+on:
+  # Tous les jours à 06h15 heure de Paris (= 05h15 UTC en hiver, 04h15 UTC en été)
+  # On met 05h15 UTC pour couvrir les deux (le léger décalage n'a pas d'importance)
+  schedule:
+    - cron: "15 5 * * *"
+
+  # Déclenchement manuel depuis GitHub → Actions → "Run workflow"
+  workflow_dispatch:
+
+jobs:
+  daily-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # pour committer les fichiers générés
+
+    steps:
+      # ── 1. Télécharger le code ─────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Installer Python ────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # ── 3. Installer les dépendances ───────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Lancer le pipeline ──────────────────────────────────────────
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY:          ${{ secrets.GEMINI_API_KEY }}
+          POKEMONTCG_API_KEY:      ${{ secrets.POKEMONTCG_API_KEY }}
+          GMAIL_USER:              ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD:      ${{ secrets.GMAIL_APP_PASSWORD }}
+          BREVO_API_KEY:           ${{ secrets.BREVO_API_KEY }}
+          NEWSLETTER_RECIPIENTS:   ${{ secrets.NEWSLETTER_RECIPIENTS }}
+        run: python run.py --no-email
+
+      # ── 5. Envoyer la newsletter ───────────────────────────────────────
+      - name: Send newsletter
+        env:
+          GEMINI_API_KEY:          ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER:              ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD:      ${{ secrets.GMAIL_APP_PASSWORD }}
+          BREVO_API_KEY:           ${{ secrets.BREVO_API_KEY }}
+          NEWSLETTER_RECIPIENTS:   ${{ secrets.NEWSLETTER_RECIPIENTS }}
+        run: |
+          python -c "
+          import json, os
+          from datetime import datetime, timezone
+          from pipeline.email_sender import save_newsletter, send_newsletter
+
+          today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          with open(f'data/{today}.json', encoding='utf-8') as f:
+              edition = json.load(f)
+          html = save_newsletter(edition)
+          send_newsletter(edition, html)
+          "
+        continue-on-error: true   # l'email en échec ne bloque pas le déploiement
+
+      # ── 6. Committer les nouvelles données ─────────────────────────────
+      - name: Commit & push generated files
+        run: |
+          git config user.name  "Pokémon TCG Daily Bot"
+          git config user.email "bot@pokenewsdaily.noreply"
+          git add data/ docs/ newsletters/
+          git diff --cached --quiet || git commit -m "chore: édition du $(date +%Y-%m-%d)"
+          git push

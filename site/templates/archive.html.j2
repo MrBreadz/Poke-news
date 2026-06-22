@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive — Pokémon TCG Daily</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<main class="archive-page">
+  <a href="./index.html" style="font-size:0.8rem; color: var(--text-muted); display:inline-block; margin-bottom:24px;">← Retour à l'édition du jour</a>
+  <h1>📚 Archive des éditions</h1>
+  <p style="color: var(--text-muted); font-size: 0.85rem;">{{ editions | length }} édition{% if editions|length > 1 %}s{% endif %} disponible{% if editions|length > 1 %}s{% endif %}</p>
+
+  <ul class="archive-list">
+    {% for edition in editions %}
+    <li>
+      <a href="./{{ edition.date }}.html" class="archive-item">
+        <span class="archive-date">📅 {{ edition.date }}</span>
+        <span class="archive-count">{{ edition.item_count }} bloc{% if edition.item_count > 1 %}s{% endif %} →</span>
+      </a>
+    </li>
+    {% else %}
+    <li style="color: var(--text-muted); padding: 20px;">Aucune édition archivée pour l'instant.</li>
+    {% endfor %}
+  </ul>
+</main>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\pipeline\\\\adapters\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\config\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\data\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\newsletters\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\docs\\\\assets\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\site\\\\templates\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Clement\\\\Downloads\\\\Poke-news\\\\.github\\\\workflows\")",
+      "Bash(py --version)"
+    ]
+  }
+}

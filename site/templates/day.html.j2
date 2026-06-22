@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon TCG Daily — {{ date_str }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+
+<!-- ══════════════════════  HEADER  ══════════════════════ -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <span class="brand-icon">⚡</span>
+      <div>
+        <h1 class="brand-title">Pokémon TCG Daily</h1>
+        <p class="brand-subtitle">{{ edition.stats.items_selected }} blocs · {{ edition.stats.sources_fetched }} sources</p>
+      </div>
+    </div>
+
+    <!-- Navigation par date -->
+    <nav class="date-nav">
+      {% if prev_date %}
+        <a href="./{{ prev_date }}.html" class="nav-btn" title="Édition précédente">← {{ prev_date }}</a>
+      {% else %}
+        <span class="nav-btn disabled">←</span>
+      {% endif %}
+
+      <div class="date-current">
+        <span class="date-label">ÉDITION DU</span>
+        <span class="date-value">{{ date_str }}</span>
+      </div>
+
+      {% if next_date %}
+        <a href="./{{ next_date }}.html" class="nav-btn" title="Édition suivante">{{ next_date }} →</a>
+      {% else %}
+        <span class="nav-btn disabled">→</span>
+      {% endif %}
+    </nav>
+
+    <!-- Filtres catégories -->
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-cat="all">Tout</button>
+      {% set seen_cats = namespace(cats=[]) %}
+      {% for item in edition.items %}
+        {% if item.category not in seen_cats.cats %}
+          {% set _ = seen_cats.cats.append(item.category) %}
+          <button class="filter-btn" data-cat="{{ item.category }}"
+            style="--accent: {{ cat_meta[item.category].color if item.category in cat_meta else '#8b5cf6' }}">
+            {{ cat_meta[item.category].icon if item.category in cat_meta else '🃏' }}
+            {{ cat_meta[item.category].label if item.category in cat_meta else item.category }}
+          </button>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</header>
+
+<!-- ══════════════════════  BENTO GRID  ══════════════════════ -->
+<main class="bento-grid" id="bento">
+  {% for item in edition.items %}
+  {% set accent = cat_meta[item.category].color if item.category in cat_meta else '#8b5cf6' %}
+  {% set icon = cat_meta[item.category].icon if item.category in cat_meta else '🃏' %}
+  {% set label = cat_meta[item.category].label if item.category in cat_meta else item.category %}
+  {% set size = item.score | size_class %}
+
+  <article class="bento-card {{ size }}" data-cat="{{ item.category }}" style="--accent: {{ accent }}">
+    <!-- Visuel -->
+    <div class="card-visual">
+      {% if item.extra.get('video_id') %}
+        <a href="{{ item.source_url }}" target="_blank" rel="noopener" class="yt-thumb">
+          <img src="{{ item.image_url }}" alt="{{ item.title_fr }}" loading="lazy" width="400" height="225">
+          <span class="yt-play">▶</span>
+        </a>
+      {% else %}
+        <img src="{{ item.image_url }}" alt="{{ item.title_fr }}" loading="lazy" width="400" height="250">
+      {% endif %}
+    </div>
+
+    <!-- Contenu -->
+    <div class="card-body">
+      <!-- Tag + horodatage -->
+      <div class="card-meta">
+        <span class="cat-tag">{{ icon }} {{ label }}</span>
+        <span class="timestamp">{{ item.published_at | relative_time }}</span>
+      </div>
+
+      <!-- Titre -->
+      <h2 class="card-title">{{ item.title_fr }}</h2>
+
+      <!-- Résumé (masqué sur les petits blocs) -->
+      {% if item.summary_fr %}
+        <p class="card-summary">{{ item.summary_fr }}</p>
+      {% endif %}
+
+      <!-- Widget prix (catégories marché) -->
+      {% if item.category in ('prix_marche', 'cartes_gradees') and item.extra.get('price_eur') %}
+        <div class="price-widget">
+          <span class="price-value">{{ item.extra.get('price_eur') }} €</span>
+          {% if item.extra.get('price_change_pct') %}
+            <span class="price-change {% if item.extra.get('price_change_pct') > 0 %}up{% else %}down{% endif %}">
+              {{ '+' if item.extra.get('price_change_pct') > 0 }}{{ item.extra.get('price_change_pct') }}%
+            </span>
+          {% endif %}
+          {% if item.extra.get('price_usd') %}
+            <span class="price-usd">/ ${{ item.extra.get('price_usd') }}</span>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <!-- Tags -->
+      {% if item.tags %}
+        <div class="card-tags">
+          {% for tag in item.tags[:4] %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <!-- Sources -->
+      <div class="card-footer">
+        {% for src in item.all_sources[:3] %}
+          <a href="{{ src.url }}" target="_blank" rel="noopener" class="source-btn">
+            Voir la source{% if loop.index > 1 %} ({{ loop.index }}){% endif %} →
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Accent bar -->
+    <div class="accent-bar"></div>
+  </article>
+  {% endfor %}
+</main>
+
+<!-- ══════════════════════  FOOTER  ══════════════════════ -->
+<footer class="site-footer">
+  <a href="./archive.html" class="footer-link">📚 Archive des éditions</a>
+  <span class="footer-sep">·</span>
+  <span class="footer-info">Généré le {{ edition.generated_at[:10] }} · 100 % gratuit · <a href="https://github.com" target="_blank" class="footer-link">GitHub</a></span>
+</footer>
+
+<script src="./assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon TCG Daily — {{ date_str }}</title>
+</head>
+<body style="margin:0;padding:0;background:#0d0618;font-family:Arial,Helvetica,sans-serif;color:#f0eeff;">
+
+<!-- Wrapper -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#0d0618;">
+<tr><td align="center" style="padding:24px 16px;">
+
+<!-- Container principal (600px max) -->
+<table width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;">
+
+  <!-- HEADER -->
+  <tr>
+    <td style="background:linear-gradient(135deg,#1a0a2e,#0d0618);border-radius:16px 16px 0 0;padding:28px 32px;border:1px solid rgba(255,255,255,0.1);border-bottom:none;text-align:center;">
+      <p style="margin:0;font-size:2rem;">⚡</p>
+      <h1 style="margin:8px 0 4px;font-size:1.4rem;font-weight:900;color:#d8b4fe;letter-spacing:-0.02em;">Pokémon TCG Daily</h1>
+      <p style="margin:0;font-size:0.8rem;color:rgba(240,238,255,0.45);text-transform:uppercase;letter-spacing:0.1em;">Édition du {{ date_str }}</p>
+    </td>
+  </tr>
+
+  <!-- INTRO -->
+  <tr>
+    <td style="background:rgba(255,255,255,0.03);padding:16px 32px;border-left:1px solid rgba(255,255,255,0.1);border-right:1px solid rgba(255,255,255,0.1);">
+      <p style="margin:0;font-size:0.85rem;color:rgba(240,238,255,0.55);text-align:center;">
+        {{ edition.stats.items_selected }} actus Pokémon TCG sélectionnées depuis {{ edition.stats.sources_fetched }} sources.
+        <a href="https://TON_SITE.pages.dev/{{ date_str }}.html" style="color:#8b5cf6;">Voir l'édition web →</a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ARTICLES -->
+  {% for item in edition.items %}
+  {% set accent = {'nouveaux_sets':'#8b5cf6','nouvelles_cartes':'#3b82f6','impression':'#64748b','stocks':'#f59e0b','prix_marche':'#f97316','cartes_gradees':'#eab308','leaks_niche':'#ec4899'}.get(item.category, '#8b5cf6') %}
+  {% set icon = {'nouveaux_sets':'🃏','nouvelles_cartes':'✨','impression':'🖨️','stocks':'📦','prix_marche':'📈','cartes_gradees':'🏆','leaks_niche':'🔍'}.get(item.category, '🃏') %}
+  {% set label = {'nouveaux_sets':'Nouveaux Sets','nouvelles_cartes':'Nouvelles Cartes','impression':'Impression','stocks':'Stocks & Deals','prix_marche':'Prix & Marché','cartes_gradees':'Cartes Gradées','leaks_niche':'Leaks & Niche JP'}.get(item.category, item.category) %}
+
+  <tr>
+    <td style="padding:0 0 2px;border-left:1px solid rgba(255,255,255,0.1);border-right:1px solid rgba(255,255,255,0.1);">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"
+        style="background:rgba(255,255,255,0.04);border-top:2px solid {{ accent }};">
+        <tr>
+          {% if item.image_url %}
+          <td width="140" valign="top" style="padding:0;">
+            <img src="{{ item.image_url }}" width="140" alt="{{ item.title_fr }}"
+              style="display:block;width:140px;height:100px;object-fit:cover;">
+          </td>
+          {% endif %}
+          <td valign="top" style="padding:14px 16px;">
+            <!-- Tag -->
+            <p style="margin:0 0 6px;font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:{{ accent }};">
+              {{ icon }} {{ label }}
+            </p>
+            <!-- Titre -->
+            <h2 style="margin:0 0 8px;font-size:0.95rem;font-weight:700;color:#f0eeff;line-height:1.3;">{{ item.title_fr }}</h2>
+            <!-- Résumé -->
+            <p style="margin:0 0 10px;font-size:0.8rem;line-height:1.55;color:rgba(240,238,255,0.6);">
+              {{ item.summary_fr[:300] }}{% if item.summary_fr|length > 300 %}…{% endif %}
+            </p>
+            <!-- Prix -->
+            {% if item.extra.get('price_eur') %}
+            <p style="margin:0 0 10px;font-size:0.85rem;font-weight:800;color:#f0eeff;">
+              {{ item.extra.get('price_eur') }} €
+              {% if item.extra.get('price_change_pct') %}
+                <span style="color:{% if item.extra.get('price_change_pct') > 0 %}#4ade80{% else %}#f87171{% endif %};">
+                  {{ '+' if item.extra.get('price_change_pct') > 0 }}{{ item.extra.get('price_change_pct') }}%
+                </span>
+              {% endif %}
+            </p>
+            {% endif %}
+            <!-- Source -->
+            {% for src in item.all_sources[:2] %}
+            <a href="{{ src.url }}"
+              style="display:inline-block;margin-right:8px;font-size:0.72rem;font-weight:600;
+                     padding:4px 10px;border-radius:6px;background:rgba(139,92,246,0.15);
+                     color:#a78bfa;border:1px solid rgba(139,92,246,0.3);text-decoration:none;">
+              Voir la source →
+            </a>
+            {% endfor %}
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  {% endfor %}
+
+  <!-- FOOTER -->
+  <tr>
+    <td style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.1);border-top:none;border-radius:0 0 16px 16px;padding:20px 32px;text-align:center;">
+      <p style="margin:0;font-size:0.75rem;color:rgba(240,238,255,0.3);">
+        <a href="https://TON_SITE.pages.dev/archive.html" style="color:rgba(240,238,255,0.45);">📚 Voir l'archive</a>
+        &nbsp;·&nbsp;
+        Newsletter générée automatiquement · 100 % gratuit
+      </p>
+    </td>
+  </tr>
+
+</table>
+</td></tr>
+</table>
+</body>
+</html>
