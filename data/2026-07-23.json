@@ -1,0 +1,400 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T07:43:50.240917+00:00",
+  "items": [
+    {
+      "id": "e7bfd75cbf05",
+      "title_fr": "Got it for a steal.",
+      "summary_fr": "Local card shop I went to had slabs in bins with different value ranges. I looked in the 10-50 bin and found this gem. The card shop uses computer systems to automatically prix their cards but they manually prix their lower end slabs.",
+      "category": "prix_marche",
+      "subcategories": [
+        "prix_marche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v44tkp/got_it_for_a_steal/",
+      "published_at": "2026-07-23T05:40:29+00:00",
+      "image_url": "https://preview.redd.it/dv5oadit2xeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba89f20ebee22ce67363a72ad3559e89949ad773",
+      "score": 38,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v44tkp/got_it_for_a_steal/"
+        }
+      ]
+    },
+    {
+      "id": "2238d21ca2b1",
+      "title_fr": "Donkey Kong Arcade LEGO Set Officially Revealed, Available August 2026",
+      "summary_fr": "A legendary DK player has already put it to the test. After all sorts of leaks, LEGO and Nintendo have now officially revealed the Donkey Kong Arcade set. Read the full article on nintendolife.com",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "Nintendo Life Pokémon",
+      "source_url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-officially-revealed-available-august-2026",
+      "published_at": "2026-07-23T03:30:00+00:00",
+      "image_url": "https://images.nintendolife.com/6bf01a10a851d/small.jpg",
+      "score": 34,
+      "tags": [],
+      "extra": {
+        "weight": 2
+      },
+      "all_sources": [
+        {
+          "name": "Nintendo Life Pokémon",
+          "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-officially-revealed-available-august-2026"
+        }
+      ]
+    },
+    {
+      "id": "04ac02dc5527",
+      "title_fr": "“Storm Emeralda” Set Starring Mega Rayquaza ex Officially Revealed, Introduces a Split Stadium Card!",
+      "summary_fr": "Following last week&#039;s teaser , Storm Emeralda starring Mega Rayquaza ex has now been officially revealed! It will release in Japan on July 31st as their M6 set. Storm Emeralda will feature 76 cards in its main set, plus another 35 to 40 secret rares, for a rough total of 115 cards.",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-set-starring-mega-rayquaza-ex-officially-revealed-introduces-a-split-stadium-card.156884/",
+      "published_at": "2026-07-19T18:21:17+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/06/m6-058-y8x2s.png",
+      "score": 33,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-set-starring-mega-rayquaza-ex-officially-revealed-introduces-a-split-stadium-card.156884/"
+        }
+      ]
+    },
+    {
+      "id": "5d56353a7fc9",
+      "title_fr": "“30th Celebration” Additional Product Preorders Live on Pokemon Center!",
+      "summary_fr": "Following last week&#039;s initial drop , preorders for additional 30th Celebration products are now available on the Pokemon Center: Mini Tin Display (limit 1) Booster Bundle (limit 3) The set&#039;s first products will release on September 16th. The booster bundle and mini tins will release on October 2nd. Click to expand...",
+      "category": "stocks",
+      "subcategories": [
+        "stocks"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-additional-product-preorders-live-on-pokemon-center.156933/",
+      "published_at": "2026-07-23T05:23:49+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/07/30th-Celebration-Tins.jpg",
+      "score": 33,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-additional-product-preorders-live-on-pokemon-center.156933/"
+        },
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-preorders-now-live-on-pokemon-center.156924/"
+        }
+      ]
+    },
+    {
+      "id": "4112d577fc6d",
+      "title_fr": "What was the deal with Prismatic Evolutions?",
+      "summary_fr": "I only dabble in the Pokemon TCG once in a while. Loved collecting as a kid and sometimes (think) about buying some as an adult. However, even as an outsider, I remember Prismatic Evolutions coming up everywhere.",
+      "category": "nouveaux_sets",
+      "subcategories": [
+        "nouveaux_sets"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v45fu2/what_was_the_deal_with_prismatic_evolutions/",
+      "published_at": "2026-07-23T06:13:54+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v45fu2/what_was_the_deal_with_prismatic_evolutions/"
+        }
+      ]
+    },
+    {
+      "id": "2d8a07b95c23",
+      "title_fr": "Opinions on PB Pull Rates",
+      "summary_fr": "Ive been watching tons of opening videos on youtube and it seems like the pull rates have been juiced up a bit in comparison to the last few sets. It seems like everyones pulling the Mega Darkrai EX SIR. I even bought a booster box myself and pulled it.",
+      "category": "nouveaux_sets",
+      "subcategories": [
+        "nouveaux_sets"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v44zzx/opinions_on_pb_pull_rates/",
+      "published_at": "2026-07-23T05:50:04+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v44zzx/opinions_on_pb_pull_rates/"
+        }
+      ]
+    },
+    {
+      "id": "a2e7ddfc29ac",
+      "title_fr": "Chinese Pokemon Product is just way more fun to open",
+      "summary_fr": "My pulls from one Chinese Terastal Gathering Sylveon Binder Box (so 8 packs)! I’ve never been this lucky pulling on many English sets, especially Prismatic Evolutions! &#32; submitted by &#32; /u/cm0011 [link] &#32; [comments]",
+      "category": "nouveaux_sets",
+      "subcategories": [
+        "nouveaux_sets"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v43gfi/chinese_pokemon_product_is_just_way_more_fun_to/",
+      "published_at": "2026-07-23T04:29:50+00:00",
+      "image_url": "https://preview.redd.it/3j9shvq7qweh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=643e7ad5cc44582d9ad9f2743a1fb02a8f7e69ac",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v43gfi/chinese_pokemon_product_is_just_way_more_fun_to/"
+        }
+      ]
+    },
+    {
+      "id": "01e0e929a4b3",
+      "title_fr": "One pack magic!",
+      "summary_fr": "&#32; submitted by &#32; /u/sonoale [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v46yau/one_pack_magic/",
+      "published_at": "2026-07-23T07:37:57+00:00",
+      "image_url": "https://preview.redd.it/zry68gymnxeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ba8e17d4e37d8d46231cffa0ff87dd35f03ac08",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v46yau/one_pack_magic/"
+        }
+      ]
+    },
+    {
+      "id": "d1bf35085125",
+      "title_fr": "insert better title here",
+      "summary_fr": "glad they know my favourite Pokemon is fomantis (it’s not) &#32; submitted by &#32; /u/nich18 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v46s09/insert_better_title_here/",
+      "published_at": "2026-07-23T07:28:04+00:00",
+      "image_url": "https://preview.redd.it/qyvbj190mxeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce8e1c27d831cdcc2384cf5374e460e2084b5bec",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v46s09/insert_better_title_here/"
+        }
+      ]
+    },
+    {
+      "id": "fc075a18c30a",
+      "title_fr": "Welp my luck just ran out for the next 1000 years",
+      "summary_fr": "Opened these in 12 packs. The last pack I was like “lmao the other two packs were shit before this, imagine if I pulled darkrai again” (came from a 3 pack) and then look what happened lmao &#32; submitted by &#32; /u/lovelybeam [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v46foz/welp_my_luck_just_ran_out_for_the_next_1000_years/",
+      "published_at": "2026-07-23T07:08:32+00:00",
+      "image_url": "https://preview.redd.it/y0h0aw3jixeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39ce6766d5d1c56e29938ec27e3651dc0dea95b9",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v46foz/welp_my_luck_just_ran_out_for_the_next_1000_years/"
+        }
+      ]
+    },
+    {
+      "id": "28ed69608bd8",
+      "title_fr": "Which looks better?",
+      "summary_fr": "Which looks better with my Electivire AR and Magmortar AR cards? 1st one where they are grouped together with random ARs? Or 2nd one where they are grouped with an EX card and a normal holo card?",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v467p6/which_looks_better/",
+      "published_at": "2026-07-23T06:56:49+00:00",
+      "image_url": "https://preview.redd.it/9p0epbuegxeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=7843a8ead3316b734d8238ad6f46038bf99ba4b3",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v467p6/which_looks_better/"
+        }
+      ]
+    },
+    {
+      "id": "c01aef8ad478",
+      "title_fr": "Which Darkrai do you prefer?",
+      "summary_fr": "For me it’s easily the Vstar, one of my favourite cards of all time &#32; submitted by &#32; /u/CallDHop [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v45tec/which_darkrai_do_you_prefer/",
+      "published_at": "2026-07-23T06:34:38+00:00",
+      "image_url": "https://preview.redd.it/twisfqfhcxeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ab27b1b5f28c05ccd0b4ebe2bbe38262f7f2bfc7",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v45tec/which_darkrai_do_you_prefer/"
+        }
+      ]
+    },
+    {
+      "id": "9dd97e0985b7",
+      "title_fr": "Entei #10",
+      "summary_fr": "Is this a dope card?? &#32; submitted by &#32; /u/StandardTurbulent577 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v44xj6/entei_10/",
+      "published_at": "2026-07-23T05:46:18+00:00",
+      "image_url": "https://preview.redd.it/viq4d9tu3xeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a94959f76099b772b61e9c1c946f8686ac63d85b",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v44xj6/entei_10/"
+        }
+      ]
+    },
+    {
+      "id": "b45d919fea78",
+      "title_fr": "Rediscovering the game",
+      "summary_fr": "I recently discovered my Pokémon collection from the early 2000’s and started to get back into the hobby of ripping packs. I haven’t had this much fun in years, but feel intimidated by the community a little. Anything I should know or take special care of?",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v44pfb/rediscovering_the_game/",
+      "published_at": "2026-07-23T05:34:16+00:00",
+      "image_url": "https://preview.redd.it/vfed7m5p1xeh1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=0cc67f17dbc98a04c4ab5fac9aca7083611f0656",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v44pfb/rediscovering_the_game/"
+        }
+      ]
+    },
+    {
+      "id": "e8e9d6eab1e4",
+      "title_fr": "[Top loader Binder] looking for something specific",
+      "summary_fr": "Hello, I am starting to collect, for my PC, I am doing 1 penny sleeve and 1 top loader. Looking at 9 per page binders and a lot of them are 200+ card binders. Anyone know if a 9 per page Binder in like 112-150 cards total exists ?",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v4435r/top_loader_binder_looking_for_something_specific/",
+      "published_at": "2026-07-23T05:02:08+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v4435r/top_loader_binder_looking_for_something_specific/"
+        }
+      ]
+    },
+    {
+      "id": "c9241f19bb8c",
+      "title_fr": "My chase 😭",
+      "summary_fr": "Bought a booster bundle of perfect order from target. Kinda irritated that it was $31.99+tax but then I got my chase card! I am shook.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1v43qtq/my_chase/",
+      "published_at": "2026-07-23T04:44:49+00:00",
+      "image_url": "https://preview.redd.it/uhhlzcqvsweh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f89d884a7da121ffd2e5236f0e82bfdf74c671c5",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1v43qtq/my_chase/"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sources_fetched": 15,
+    "items_raw": 110,
+    "items_deduplicated": 16,
+    "items_selected": 16
+  }
+}
