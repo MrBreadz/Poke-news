@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T10:02:46.087785+00:00",
+  "items": [
+    {
+      "id": "f7c8c5431b01",
+      "title_fr": "My favorite cards were robbed after I've sent them to be gradé.",
+      "summary_fr": "This is just me taking it out of my chest. I've sent my 5 favorite cards to be gradé and before them even got to Beckett, they're robbed by someone in the process and the package arrived empty. They've destroyed the package and stole the cards.",
+      "category": "cartes_gradees",
+      "subcategories": [
+        "cartes_gradees"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w44u38/my_favorite_cards_were_robbed_after_ive_sent_them/",
+      "published_at": "2026-09-01T07:31:45+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "score": 48,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w44u38/my_favorite_cards_were_robbed_after_ive_sent_them/"
+        }
+      ]
+    },
+    {
+      "id": "0286611cc40a",
+      "title_fr": "Errata Issued for Diancie from “Stellar Crown” Right Before Worlds!",
+      "summary_fr": "TPCi has announced that Diancie from Stellar Crown has received an errata to correct an error. Effective immediately, its Diffuse Reflection attack will now read as follows: \"This attack does 40 damage for each Special Energy card attached to all of your opponent&#039;s Pokemon.\" The original intention of the attack was to count the number of Special Energy cards attached to your opponent&#039;s Pokemon, not the... Click to expand...",
+      "category": "nouveaux_sets",
+      "subcategories": [
+        "nouveaux_sets"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/errata-issued-for-diancie-from-%E2%80%9Cstellar-crown%E2%80%9D-right-before-worlds.156984/",
+      "published_at": "2026-08-26T11:33:20+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/sv7_en_086_std.jpg",
+      "score": 41,
+      "tags": [
+        "SV7"
+      ],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/errata-issued-for-diancie-from-%E2%80%9Cstellar-crown%E2%80%9D-right-before-worlds.156984/"
+        }
+      ]
+    },
+    {
+      "id": "2eddb1329db7",
+      "title_fr": "Upcoming Pokemon ex and Mega Attack Rares Revealed from “Aura Seeker” and “MEGA x MEGA Parade!”",
+      "summary_fr": "Pokemon has just revealed Riolu, Mega Lucario Z ex, and Sigilyph ex from November&#039;s Aura Seeker ! The set hasn&#039;t been officially revealed yet. The English cards have also been teased, revealing a set symbol named \"FLO.\" ...",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/upcoming-pokemon-ex-and-mega-attack-rares-revealed-from-%E2%80%9Caura-seeker%E2%80%9D-and-%E2%80%9Cmega-x-mega-parade-%E2%80%9D.157021/",
+      "published_at": "2026-09-01T09:26:22+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/pokebeach-20260830-20574750-483981.jpg",
+      "score": 41,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/upcoming-pokemon-ex-and-mega-attack-rares-revealed-from-%E2%80%9Caura-seeker%E2%80%9D-and-%E2%80%9Cmega-x-mega-parade-%E2%80%9D.157021/"
+        }
+      ]
+    },
+    {
+      "id": "d67304e61591",
+      "title_fr": "eBay Cracks Down on leaked “30th Anniversary” Pokemon TCG Listings at TPCi’s Request",
+      "summary_fr": "eBay has started to remove in-hand listings of 30th Anniversary cards and merchandise under its Stolen Property Policy after receiving communication from TPCi regarding the unauthorized distribution of Pokemon TCG products. Sellers who listed the items early have received the following message from eBay: \"The sale of stolen property is not allowed on eBay. eBay has received communication from The...",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/ebay-cracks-down-on-leaked-%E2%80%9C30th-anniversary%E2%80%9D-pokemon-tcg-listings-at-tpci%E2%80%99s-request.157008/",
+      "published_at": "2026-08-26T00:11:35+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/ebay-ban-30th-anniversary.jpg",
+      "score": 41,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/ebay-cracks-down-on-leaked-%E2%80%9C30th-anniversary%E2%80%9D-pokemon-tcg-listings-at-tpci%E2%80%99s-request.157008/"
+        }
+      ]
+    },
+    {
+      "id": "2450b0e7e404",
+      "title_fr": "“Pokemon: Wild Card” TCG Movie Coming in 2027!",
+      "summary_fr": "Pokemon has teased a new animated movie for the Pokemon TCG titled Pokemon: Wild Card. It will release in 2027 and follow a Pokemon TCG player and Mimikyu. It will be the first animated Pokemon movie in seven years.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-wild-card%E2%80%9D-tcg-movie-coming-in-2027.157023/",
+      "published_at": "2026-09-01T02:45:30+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/Pokemon-Wild-Card.jpg",
+      "score": 40,
+      "tags": [
+        "151"
+      ],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-wild-card%E2%80%9D-tcg-movie-coming-in-2027.157023/"
+        }
+      ]
+    },
+    {
+      "id": "ce8aa79b4ad2",
+      "title_fr": "First time opening Pokemon in 20 years and this happens",
+      "summary_fr": "Was at my local Target today picking up groceries and saw everyone lined up in the card section cause they happened to be réapprovisionnementing Pokemon. I walked up to get a closer look and the Target worker looks at me and goes \"Do you want any?\" and I go \"Oh I haven't done Pokemon in a while how much are they?\" and she goes \"They are $5 I would definitely get a few\" and hands me 3 of them LOL. I buy them and 2/3 packs had THESE in them.",
+      "category": "stocks",
+      "subcategories": [
+        "stocks"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w434aj/first_time_opening_pokemon_in_20_years_and_this/",
+      "published_at": "2026-09-01T05:54:12+00:00",
+      "image_url": "https://preview.redd.it/ew3qytd8lumh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=106d5d80116faca997228ae8ebd22e2c40d7f873",
+      "score": 40,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w434aj/first_time_opening_pokemon_in_20_years_and_this/"
+        }
+      ]
+    },
+    {
+      "id": "665608107959",
+      "title_fr": "Did I get scammed?",
+      "summary_fr": "Hello, I went to collect-a-con on Sunday and bought this card for $185 (which is around marché prix). And I only noticed when I got home this small ding and indents on the top of the card. Would this still be considered near mint or did I overpay for this card?",
+      "category": "prix_marche",
+      "subcategories": [
+        "prix_marche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w436kx/did_i_get_scammed/",
+      "published_at": "2026-09-01T05:57:44+00:00",
+      "image_url": "https://preview.redd.it/oh0ufuycmumh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=eec2514ddb6610e6752edae447e494e5679d85fa",
+      "score": 38,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w436kx/did_i_get_scammed/"
+        }
+      ]
+    },
+    {
+      "id": "3f729e5d7b24",
+      "title_fr": "Upcoming Pokemon ex★ TCG Series Teased!",
+      "summary_fr": "Pokemon has revealed that the next TCG series will be named \"Pokemon ex★,\" presumably introducing a new Pokemon ex mechanic. Entei, Suicune, and Raikou were teased and will likely headline it. No further details have been revealed.",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/upcoming-pokemon-ex%E2%98%85-tcg-series-teased.157022/",
+      "published_at": "2026-09-01T08:23:34+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/pokebeach-20260830-21033275-997601.jpg",
+      "score": 35,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/upcoming-pokemon-ex%E2%98%85-tcg-series-teased.157022/"
+        }
+      ]
+    },
+    {
+      "id": "d7d255a02ded",
+      "title_fr": "“Team Rocket’s Ambition” All 110 Cards Revealed for “Pocket!”",
+      "summary_fr": "Team Rocket&#039;s Ambition starring Team Rocket&#039;s Pokemon has just launched in Pokemon TCG Pocket as its B4a set! The set contains 110 cards in total, which includes 72 main set cards and 38 secret rares: ... Click to expand...",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cteam-rocket%E2%80%99s-ambition%E2%80%9D-all-110-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.157011/",
+      "published_at": "2026-08-30T11:55:11+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/089-089-103-cPK_20_021300_01_ROCKETDANNOFREEZERex_SAR-Team-Rocket-Ambition-Team-Rocket-Ambition.webp",
+      "score": 34,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9Cteam-rocket%E2%80%99s-ambition%E2%80%9D-all-110-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.157011/"
+        }
+      ]
+    },
+    {
+      "id": "98f855268b9c",
+      "title_fr": "Pokemon Worlds 2027 to be Held in Singapore!",
+      "summary_fr": "Pokemon has just announced Worlds 2027 will be held in Singapore from August 13th to 15th! Ticket dates and venue details have not been announced at this time. A tandem PokemonXP convention was not announced, so presumably it will not take place next year.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/pokemon-worlds-2027-to-be-held-in-singapore.157020/",
+      "published_at": "2026-09-01T09:22:50+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/pokebeach-20260830-21174033-125133.jpg",
+      "score": 33,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/pokemon-worlds-2027-to-be-held-in-singapore.157020/"
+        }
+      ]
+    },
+    {
+      "id": "1c8d096af205",
+      "title_fr": "Crystal Lugia, Magikarp, Dark Tyranitar, and More Revealed from “30th Celebration!”",
+      "summary_fr": "Lugia from Aquapolis, Dark Tyranitar from EX Team Rocket Returns, and Magikarp from Paldea Evolved have been revealed from the Classic Collection of 30th Celebration ! The set&#039;s products will begin to release worldwide on September 16th. ...",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/crystal-lugia-magikarp-dark-tyranitar-and-more-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.157015/",
+      "published_at": "2026-08-30T21:05:59+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/Crystal-Lugia-Japan.png",
+      "score": 32,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/crystal-lugia-magikarp-dark-tyranitar-and-more-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.157015/"
+        }
+      ]
+    },
+    {
+      "id": "d50aa1b82263",
+      "title_fr": "Ultra Ball, Poké Pad, and Switch from “30th Celebration” Revealed",
+      "summary_fr": "Reprints of Ultra Ball, Poké Pad, and Switch have been revealed from 30th Celebration ! The set&#039;s products will begin to release worldwide on September 16th. Each of these cards have been illustrated by Yuka Morii, whos is known for her clay model illustrations!",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/ultra-ball-pok%C3%A9-pad-and-switch-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.157002/",
+      "published_at": "2026-08-28T15:13:51+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/Poke-Pad.png",
+      "score": 31,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/ultra-ball-pok%C3%A9-pad-and-switch-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.157002/"
+        }
+      ]
+    },
+    {
+      "id": "5b46b1b891b8",
+      "title_fr": "Pulls from a pitch black booster box 👍👍",
+      "summary_fr": "Second page is where the pulls are &#32; submitted by &#32; /u/Nico2445 [link] &#32; [comments]",
+      "category": "nouveaux_sets",
+      "subcategories": [
+        "nouveaux_sets"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w41jo9/pulls_from_a_pitch_black_booster_box/",
+      "published_at": "2026-09-01T04:30:42+00:00",
+      "image_url": "https://preview.redd.it/7ukm6xvt6umh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d30fcd911196a5267ee5e5a435cc4be050e43ead",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w41jo9/pulls_from_a_pitch_black_booster_box/"
+        }
+      ]
+    },
+    {
+      "id": "2e0a16b95417",
+      "title_fr": "Is this a really rare card?",
+      "summary_fr": "I was playing pokemon tcg and recently pulled it does anyone know if its like a REALLY rare card? &#32; submitted by &#32; /u/ScarGamer1400 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w47cuk/is_this_a_really_rare_card/",
+      "published_at": "2026-09-01T09:55:26+00:00",
+      "image_url": "https://preview.redd.it/6q8bnkjrsvmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8640468fbb83f39570f5044014253e1af2805b1",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w47cuk/is_this_a_really_rare_card/"
+        }
+      ]
+    },
+    {
+      "id": "3d7bbadcc055",
+      "title_fr": "Are these cards intentionally similar?",
+      "summary_fr": "It may just be my brain but looking at both cards I couldn’t help but feel like the new 30th Gengar is heavily inspired by the Gengar VMAX. Both have these odd buildings with candlelit windows, an interesting moon / clouds, and a Forrest type environment. I thought maybe they take place in the same world; One before Gengar VMAXes and one after?",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w476i6/are_these_cards_intentionally_similar/",
+      "published_at": "2026-09-01T09:45:46+00:00",
+      "image_url": "https://preview.redd.it/2oj3hsk1rvmh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e74054ac31819e2141a4260ce97c21b9210a4ac3",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w476i6/are_these_cards_intentionally_similar/"
+        }
+      ]
+    },
+    {
+      "id": "307970b23d0c",
+      "title_fr": "I need help identifying this card",
+      "summary_fr": "I’m picking up someone’s collection tomorrow, and when looking at the pictures overnight out of excitement I noticed some cards in one of the pictures which look like one of them could possibly be a tag team. If anyone more experienced is able to look at these photos and lend there experience in identifying any of these cards or the era of them, it would be greatly appreciated &#32; submitted by &#32; /u/Overall-Lion2291 [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1w45mma/i_need_help_identifying_this_card/",
+      "published_at": "2026-09-01T08:17:52+00:00",
+      "image_url": "https://preview.redd.it/ffnh505dbvmh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d875f8406f0498233711ea5a132a17477aa76876",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1w45mma/i_need_help_identifying_this_card/"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sources_fetched": 15,
+    "items_raw": 110,
+    "items_deduplicated": 16,
+    "items_selected": 16
+  }
+}
