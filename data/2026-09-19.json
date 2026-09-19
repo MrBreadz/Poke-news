@@ -1,0 +1,404 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T09:27:18.203415+00:00",
+  "items": [
+    {
+      "id": "e4d494719673",
+      "title_fr": "Rant: I’m sick of “The marché™️”",
+      "summary_fr": "I’m sick of it all. This “marché”. Card shows.",
+      "category": "prix_marche",
+      "subcategories": [
+        "prix_marche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkds3q/rant_im_sick_of_the_market/",
+      "published_at": "2026-09-19T05:47:45+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "score": 56,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkds3q/rant_im_sick_of_the_market/"
+        }
+      ]
+    },
+    {
+      "id": "eaed2ff11930",
+      "title_fr": "PSA: Dragon's Dogma 2 Character Creator & Storage App Now Available On Switch 2",
+      "summary_fr": "Updated with new hairstyles & tattoos. Capcom shared a new trailer for Dragon's Dogma 2: Dark Arisen this week, and apart from this, there's now a demo on the eShop. This demo focuses exclusively on the extensive character creator, which has now also been updated with new hairstyles and tattoos.",
+      "category": "cartes_gradees",
+      "subcategories": [
+        "cartes_gradees"
+      ],
+      "source_name": "Nintendo Life Pokémon",
+      "source_url": "https://www.nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2",
+      "published_at": "2026-09-18T04:30:00+00:00",
+      "image_url": "https://images.nintendolife.com/97500e9ebe2cb/small.jpg",
+      "score": 43,
+      "tags": [
+        "PSA"
+      ],
+      "extra": {
+        "weight": 2
+      },
+      "all_sources": [
+        {
+          "name": "Nintendo Life Pokémon",
+          "url": "https://www.nintendolife.com/news/2026/09/psa-dragons-dogma-2-character-creator-and-storage-app-now-available-on-switch-2"
+        }
+      ]
+    },
+    {
+      "id": "642f2f134f72",
+      "title_fr": "“30th Celebration” Full Set List Revealed for Japan, Features 176 Cards!",
+      "summary_fr": "Creatures has officially revealed most of the cards from Japan&#039;s 30th Celebration set! The set features 176 cards. This includes 103 main set cards (including 30 Pikachu cards), 35 secret rares, 30 Classic Collection cards, and eight Basic Energy.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-full-set-list-revealed-for-japan-features-176-cards.157037/",
+      "published_at": "2026-09-15T17:33:53+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/09/136-Pikachu-30th-Celebration-Japan.jpg",
+      "score": 41,
+      "tags": [
+        "Pikachu"
+      ],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-full-set-list-revealed-for-japan-features-176-cards.157037/"
+        }
+      ]
+    },
+    {
+      "id": "e6c33c06557e",
+      "title_fr": "I've found over a hundred cards dis𝘤𝘢𝘳𝘥ed in parking lots the last few days.",
+      "summary_fr": "Stupid title pun was too easy, but seriously... has anyone else seen so many cards littering the ground outside of stores? I'm a big time pokéfan who isn't into TCG for the marché value of cards or playing the game, but I do like to collect ones that I enjoy the art of.",
+      "category": "prix_marche",
+      "subcategories": [
+        "prix_marche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkdqrc/ive_found_over_a_hundred_cards_dis𝘤𝘢𝘳𝘥ed_in/",
+      "published_at": "2026-09-19T05:45:48+00:00",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "score": 38,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkdqrc/ive_found_over_a_hundred_cards_dis𝘤𝘢𝘳𝘥ed_in/"
+        }
+      ]
+    },
+    {
+      "id": "c3f464b0e634",
+      "title_fr": "Mew RGB Secret Rares Pulled From “30th Celebration,” May Remain Officially Unrevealed for Months",
+      "summary_fr": "30th Celebration is starting to hit store shelves a bit early at some retailers, and today multiple fans pulled three secret rare Mew cards that haven&#039;t been officially revealed! There is a red, green, and blue card, all illustrated by YOSHIROTTEN. They are numbered out of \"RGB.\" #R/RGB #R/RGB (French)...",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/mew-rgb-secret-rares-pulled-from-%E2%80%9C30th-celebration-%E2%80%9D-may-remain-officially-unrevealed-for-months.157041/",
+      "published_at": "2026-09-18T06:26:04+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/09/Mew-Red.jpg",
+      "score": 34,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/mew-rgb-secret-rares-pulled-from-%E2%80%9C30th-celebration-%E2%80%9D-may-remain-officially-unrevealed-for-months.157041/"
+        }
+      ]
+    },
+    {
+      "id": "ee822759a4a2",
+      "title_fr": "“30th Celebration” English Set Guide: Full Card List, Products, Store Promotions, and More!",
+      "summary_fr": "TPCi has officially revealed most of the card images for 30th Celebration! The set releases worldwide next Wednesday, September 16th. Update (9/15): All the card images are now up!",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-english-set-guide-full-card-list-products-store-promotions-and-more.157038/",
+      "published_at": "2026-09-15T18:41:19+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/09/153-30th-Celebration.jpg",
+      "score": 33,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-english-set-guide-full-card-list-products-store-promotions-and-more.157038/"
+        }
+      ]
+    },
+    {
+      "id": "6b581d9f2639",
+      "title_fr": "Pokémon Scarlet and Violet - Fully Evolved Powerhouse Pokémon with the Mightiest Mark Return!",
+      "summary_fr": "From Friday, September 25th, 2026 to Thursday, October 1st, 2026, at 23:59 UTC, fully evolved powerhouse Pokémon are making a comeback, one after another in black crystal Tera Raid battles. Fu...",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PocketMonsters",
+      "source_url": "https://pocketmonsters.net/news/9543",
+      "published_at": "2026-09-18T14:15:20+00:00",
+      "image_url": "//media.pocketmonsters.net/news/9543/mighty.jpg/t/700.png",
+      "score": 33,
+      "tags": [],
+      "extra": {
+        "weight": 3
+      },
+      "all_sources": [
+        {
+          "name": "PocketMonsters",
+          "url": "https://pocketmonsters.net/news/9543"
+        }
+      ]
+    },
+    {
+      "id": "8258aec23b29",
+      "title_fr": "Pokémon Scarlet and Violet - Quaquaval - 7-star Tera Raid Battles",
+      "summary_fr": "From Friday, September 18th, 2026 to Thursday, September 24th, 2026, at 23:59 UTC, players of Pokémon Scarlet and Violet can catch Quaquaval with the Mightiest Mark in black crystal Tera Raid Batt...",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "PocketMonsters",
+      "source_url": "https://pocketmonsters.net/news/9542",
+      "published_at": "2026-09-18T14:12:11+00:00",
+      "image_url": "//media.pocketmonsters.net/news/9542/Quaquaval.jpg/t/700.png",
+      "score": 33,
+      "tags": [],
+      "extra": {
+        "weight": 3
+      },
+      "all_sources": [
+        {
+          "name": "PocketMonsters",
+          "url": "https://pocketmonsters.net/news/9542"
+        }
+      ]
+    },
+    {
+      "id": "6a98db228f3f",
+      "title_fr": "Mercari and Pokemon Target Scalpers By Banning Listings of Sealed “30th Anniversary” Products",
+      "summary_fr": "In partnership with The Pokemon Company, Japanese resale marchéplace Mercari has announced a temporary ban on listings of sealed 30th Anniversary products. The restriction begins today with the set&#039;s release and covers its booster packs, booster boxes, and Japan&#039;s equivalent of the First Partner Collections . However, individual cards can still be sold.",
+      "category": "stocks",
+      "subcategories": [
+        "stocks"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/mercari-and-pokemon-target-scalpers-by-banning-listings-of-sealed-%E2%80%9C30th-anniversary%E2%80%9D-products.157043/",
+      "published_at": "2026-09-17T18:53:54+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/09/30th-Celebration-Booster-Box-Japanese.webp",
+      "score": 32,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/mercari-and-pokemon-target-scalpers-by-banning-listings-of-sealed-%E2%80%9C30th-anniversary%E2%80%9D-products.157043/"
+        }
+      ]
+    },
+    {
+      "id": "2eddb1329db7",
+      "title_fr": "Upcoming Pokemon ex and Mega Attack Rares Revealed from “Aura Seeker” and “MEGA x MEGA Parade!”",
+      "summary_fr": "Pokemon has just revealed Riolu, Mega Lucario Z ex, and Sigilyph ex from November&#039;s Aura Seeker ! The set hasn&#039;t been officially revealed yet. The English cards have also been teased, revealing a set symbol named \"FLO.\" ...",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "PokeBeach",
+      "source_url": "https://www.pokebeach.com/forums/threads/upcoming-pokemon-ex-and-mega-attack-rares-revealed-from-%E2%80%9Caura-seeker%E2%80%9D-and-%E2%80%9Cmega-x-mega-parade-%E2%80%9D.157021/",
+      "published_at": "2026-09-14T22:47:57+00:00",
+      "image_url": "https://www.pokebeach.com/news/2026/08/pokebeach-20260830-20574750-483981.jpg",
+      "score": 31,
+      "tags": [],
+      "extra": {
+        "weight": 5
+      },
+      "all_sources": [
+        {
+          "name": "PokeBeach",
+          "url": "https://www.pokebeach.com/forums/threads/upcoming-pokemon-ex-and-mega-attack-rares-revealed-from-%E2%80%9Caura-seeker%E2%80%9D-and-%E2%80%9Cmega-x-mega-parade-%E2%80%9D.157021/"
+        }
+      ]
+    },
+    {
+      "id": "61ce7ce2f3cd",
+      "title_fr": "Hits From 1 Chinese Booster box",
+      "summary_fr": "Wow, these boxes are insane! I bought 2 and wanted to wait a week but gosh darn, it’ll be difficult for me to wait. &#32; submitted by &#32; /u/Vantherion [link] &#32; [comments]",
+      "category": "nouveaux_sets",
+      "subcategories": [
+        "nouveaux_sets"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkf29z/hits_from_1_chinese_booster_box/",
+      "published_at": "2026-09-19T06:58:39+00:00",
+      "image_url": "https://preview.redd.it/nwwgx41ldfqh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=b86a87a1ff89d30cd469454da89d1e2e5a1c71b7",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkf29z/hits_from_1_chinese_booster_box/"
+        }
+      ]
+    },
+    {
+      "id": "81e3729c1feb",
+      "title_fr": "In my opinion, the best set of gold cards out there.",
+      "summary_fr": "&#32; submitted by &#32; /u/Sandgroper_1995 [link] &#32; [comments]",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wke7ee/in_my_opinion_the_best_set_of_gold_cards_out_there/",
+      "published_at": "2026-09-19T06:10:49+00:00",
+      "image_url": "https://preview.redd.it/k0b65wf35fqh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=3ce24920ecde99b7877abdee1b7f1763e2555489",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wke7ee/in_my_opinion_the_best_set_of_gold_cards_out_there/"
+        }
+      ]
+    },
+    {
+      "id": "be4dacf00f70",
+      "title_fr": "I like this powerful illustration",
+      "summary_fr": "&#32; submitted by &#32; /u/CatchEmSwirls [link] &#32; [comments]",
+      "category": "nouvelles_cartes",
+      "subcategories": [
+        "nouvelles_cartes"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkdxgy/i_like_this_powerful_artwork/",
+      "published_at": "2026-09-19T05:55:41+00:00",
+      "image_url": "https://preview.redd.it/yapmiwge2fqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86591d9f410e1161735c0636f5affcc163de1c0a",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkdxgy/i_like_this_powerful_artwork/"
+        }
+      ]
+    },
+    {
+      "id": "93d2d9d151cf",
+      "title_fr": "A friend pulled the weirdest error pack",
+      "summary_fr": "Seeing the hit on the front was an immediate point of confusion for me, wondering if it could somehow be some kind of god pack? But then the pikachu in the third slot, thinking the order just somehow got shuffled, but then suddenly just fanning out into a bunch of code cards? Weirdest pack I've ever seen.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkhf87/a_friend_pulled_the_weirdest_error_pack/",
+      "published_at": "2026-09-19T09:16:00+00:00",
+      "image_url": "https://preview.redd.it/rlmsf1z42gqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f45df48c05c021502064845ee28cad40c411782e",
+      "score": 30,
+      "tags": [
+        "Pikachu"
+      ],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkhf87/a_friend_pulled_the_weirdest_error_pack/"
+        }
+      ]
+    },
+    {
+      "id": "9e3c7162a1a6",
+      "title_fr": "Any improvements for my first partner binder?",
+      "summary_fr": "Should I choose a different professor card for one of the generations? &#32; submitted by &#32; /u/Morthedubi [link] &#32; [comments]",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkh1y6/any_improvements_for_my_first_partner_binder/",
+      "published_at": "2026-09-19T08:54:15+00:00",
+      "image_url": "https://external-preview.redd.it/YzM0MTk3cDh5ZnFoMVYU5zLsV_ksikR9ZuHLiwZBLpM3vLrQgko48nNhNR80.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e52a28d9821e5fe24edfd3f7542a28a59748a7a9",
+      "score": 30,
+      "tags": [],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkh1y6/any_improvements_for_my_first_partner_binder/"
+        }
+      ]
+    },
+    {
+      "id": "29dc30e28aae",
+      "title_fr": "Fuecoco & Mew Were My Top Chases!",
+      "summary_fr": "I couldn't believe when Mew emerged from the pack! Wasn't counting on it at all. These 2 are in my top 3 favorite Pokemon ever, and I knew I wanted these when I first saw this set announced.",
+      "category": "leaks_niche",
+      "subcategories": [
+        "leaks_niche"
+      ],
+      "source_name": "r/PokemonTCG",
+      "source_url": "https://www.reddit.com/r/PokemonTCG/comments/1wkgw29/fuecoco_mew_were_my_top_chases/",
+      "published_at": "2026-09-19T08:44:20+00:00",
+      "image_url": "https://preview.redd.it/iwocsknhwfqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b949ee6c5e03bf760dfc0fffe504ceee4585aa6",
+      "score": 30,
+      "tags": [
+        "Mewtwo"
+      ],
+      "extra": {
+        "weight": 4
+      },
+      "all_sources": [
+        {
+          "name": "r/PokemonTCG",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1wkgw29/fuecoco_mew_were_my_top_chases/"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sources_fetched": 15,
+    "items_raw": 110,
+    "items_deduplicated": 16,
+    "items_selected": 16
+  }
+}
